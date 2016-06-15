@@ -11,7 +11,7 @@
     "app"
   ],
   "scripts": {
-    "test": "mocha --reporter spec --timeout 3000 && nsp check"
+    "test": "jshint app/*.js && mocha --reporter spec --timeout 3000 && nsp check"
   },
   "repository": {
     "type": "git",
@@ -33,6 +33,7 @@
     "yosay": "^1.0.0"
   },
   "devDependencies": {
+    "jshint": "^2.9.2",
     "mocha": "*",
     "nsp": "^2.4.0",
     "yeoman-test": "^1.1.0"

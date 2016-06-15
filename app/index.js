@@ -6,7 +6,6 @@ var mkdirp = require('mkdirp');
 
 module.exports = generators.Base.extend({
   constructor: function () {
-    var testLocal;
 
     generators.Base.apply(this, arguments);
 

@@ -1,15 +1,22 @@
 {
   "node": true,
+  "browser": true,
   "esnext": true,
-  "mocha": true,
   "bitwise": false,
-  "curly": false,
-  "eqeqeq": true,
-  "eqnull": true,
+  "camelcase": false,
+  "curly": true,
+  "eqeqeq": false,
   "immed": true,
   "latedef": true,
   "newcap": true,
   "noarg": true,
+  "quotmark": "single",
+  "regexp": true,
   "undef": true,
-  "strict": false
+  "unused": true,
+  "strict": true,
+  "trailing": true,
+  "smarttabs": true,
+  "globals": {
+  }
 }
