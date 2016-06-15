@@ -139,8 +139,8 @@ module.exports = generators.Base.extend({
         this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json')
       );
       this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/LaunchImage/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/LaunchImage/Contents.json')
+        this.templatePath('TvmlApp/Assets.xcassets/LaunchImage.launchimage/Contents.json'),
+        this.destinationPath(this.appname + '/Assets.xcassets/LaunchImage.launchimage/Contents.json')
       );
       this.fs.copy(
         this.templatePath('TvmlApp/Assets.xcassets/Contents.json'),
@@ -279,7 +279,7 @@ module.exports = generators.Base.extend({
         this.templatePath('TvmlApp/src/templates/list.jade'),
         this.destinationPath(this.appname + '/src/templates/list.jade')
       );
-    },
+    }
   },
 
   install: function () {
