@@ -40,7 +40,7 @@ module.exports = generators.Base.extend({
     var done = this.async();
 
     if (!this.options['skip-welcome-message']) {
-      this.log(yosay('\'Allo \'allo! Out of the box I create a scaffold for creating JavasScript-based TVML tvOS Apps.  '));
+      this.log(yosay('I create a scaffold for creating JavasScript-based TVML tvOS Apps.  '));
     }
 
     var prompts = [{
@@ -298,6 +298,6 @@ module.exports = generators.Base.extend({
       this.log(howToInstall);
       return;
     }
-    this.log(yosay('Run ' + chalk.yellow.bold('npm start') + ' to server'));
+    this.log(yosay('Run ' + chalk.yellow.bold('npm start') + ' to start local dev server with reload. Then Start the app from Xcode.'));
   }
 });

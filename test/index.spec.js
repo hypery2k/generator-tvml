@@ -7,7 +7,6 @@ describe('index', function () {
   before(function () {
     return helpers.run(path.join(__dirname, '../app'))
       .withPrompts({name: 'test', id: 'abc'})
-      .toPromise();
   });
 
   it('the generator can be required without throwing', function () {
