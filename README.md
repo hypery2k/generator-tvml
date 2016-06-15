@@ -4,7 +4,7 @@
 
 > The template provides a basic TVML sceleton for tvOS which uses WebPack and LiveReloading to build apps for the AppleTV platform
 
-[![NPM](https://nodei.co/npm/generator-tvml.png)](https://nodei.co/npm/generator-tvml/)
+[![NPM](https://nodei.co/npm/generator-tvml.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/generator-tvml/)
 
 Feel free to **donate**
 

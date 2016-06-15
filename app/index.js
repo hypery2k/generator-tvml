@@ -2,9 +2,7 @@
 var generators = require('yeoman-generator');
 var yosay = require('yosay');
 var chalk = require('chalk');
-var wiredep = require('wiredep');
 var mkdirp = require('mkdirp');
-var _s = require('underscore.string');
 
 module.exports = generators.Base.extend({
   constructor: function () {
