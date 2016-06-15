@@ -1,0 +1,5 @@
+node_modules
+dist
+.tmp
+<%= appname %>/xcuserdata/*
+<%= appname %>/project.xcworkspace/xcuserdata/*

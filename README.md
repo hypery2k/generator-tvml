@@ -1,2 +1,1 @@
-# tvml-generator
-TVML Yeoman Template
+# TVML Yeoman Template
