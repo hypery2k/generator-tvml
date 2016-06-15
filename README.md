@@ -1,8 +1,8 @@
 # TVML Yeoman Template
 
-[![Build Status](https://travis-ci.org/hypery2k/generator-tvml.svg?branch=master)](https://travis-ci.org/hypery2k/generator-tvml) [![npm version](https://badge.fury.io/js/generator-tvml.svg)](http://badge.fury.io/js/generator-tvml) [![Dependency Status](https://david-dm.org/hypery2k/generator-tvml.svg)](https://david-dm.org/hypery2k/generator-tvml) [![devDependency Status](https://david-dm.org/hypery2k/generator-tvml/dev-status.svg)](https://david-dm.org/hypery2k/generator-tvml#info=devDependencies) 
+[![Build Status](https://travis-ci.org/hypery2k/generator-tvml.svg?branch=master)](https://travis-ci.org/hypery2k/generator-tvml) [![npm version](https://badge.fury.io/js/generator-tvml.svg)](http://badge.fury.io/js/generator-tvml) [![Dependency Status](https://david-dm.org/hypery2k/generator-tvml.svg)](https://david-dm.org/hypery2k/generator-tvml) [![devDependency Status](https://david-dm.org/hypery2k/generator-tvml/dev-status.svg)](https://david-dm.org/hypery2k/generator-tvml#info=devDependencies)
 
-> The plugin provides access to the standard interface that manages the editing and sending an email message. You can use this view controller to display a standard email view inside your application and populate the fields of that view with initial values, such as the subject, email recipients, body text, and attachments. The user can edit the initial contents you specify and choose to send the email or cancel the operation.
+> The template provides a basic TVML sceleton for tvOS which uses WebPack and LiveReloading to build apps for the AppleTV platform
 
 [![NPM](https://nodei.co/npm/generator-tvml.png)](https://nodei.co/npm/generator-tvml/)
 
