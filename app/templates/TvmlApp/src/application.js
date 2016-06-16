@@ -24,8 +24,8 @@ App.onLaunch = function (options) {
               style: '',
               title: 'First item',
               preview: {
-                url: ''
-                style: ''
+                url: '',
+                style: '',
                 title:'First Preview'
               }
             }
