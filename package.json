@@ -31,6 +31,7 @@
     "yosay": "1.1.1"
   },
   "devDependencies": {
+    "core-util-is": "1.0.2",
     "jshint": "2.9.2",
     "mocha": "2.5.3",
     "nsp": "2.4.0",
