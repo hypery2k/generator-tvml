@@ -280,6 +280,8 @@ module.exports = generators.Base.extend({
   },
 
   install: function () {
+    var elementDir = process.cwd() + '/' + this.appname;
+    process.chdir(elementDir);
     this.installDependencies({
       bower: false,
       npm: true,
@@ -298,6 +300,6 @@ module.exports = generators.Base.extend({
       this.log(howToInstall);
       return;
     }
-    this.log(yosay('Run ' + chalk.yellow.bold('npm start') + ' to start local dev server with reload. Then Start the app from Xcode.'));
+    this.log(yosay('Run ' + chalk.yellow.bold('cd ' + this.appname + ' && npm start') + ' to start local dev server with reload. Then Start the app from Xcode.'));
   }
 });
