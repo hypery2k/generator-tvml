@@ -1,5 +1,17 @@
+os: osx
 sudo: false
-language: node_js
-node_js:
-  - v5
-  - v4
+language: objective-c
+env:
+  - NODE_VERSION="4"
+  - NODE_VERSION="5"
+  - NODE_VERSION="6"
+script:
+  - npm test
+before_install:
+  - wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
+  - source ~/.nvm/nvm.sh && nvm install $NODE_VERSION
+  - PATH="`npm bin`:`npm bin -g`:$PATH"
+  - npm install
+  # Output useful info for debugging
+  - node --version
+  - npm --version
