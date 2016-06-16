@@ -4,6 +4,54 @@ var yosay = require('yosay');
 var chalk = require('chalk');
 var mkdirp = require('mkdirp');
 
+
+function createImageStackLayer(fs, templateFn, destinationFn, templatePath, destinationPath) {
+  fs.copy(
+    templateFn(templatePath + '/Content.imageset/Contents.json'),
+    destinationFn(destinationPath + '/Content.imageset/Contents.json')
+  );
+  fs.copy(
+    templateFn(templatePath + '/Contents.json'),
+    destinationFn(destinationPath + '/Contents.json')
+  );
+}
+
+function createImageStack(fs, templateFn, destinationFn, templatePath, destinationPath) {
+  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Back.imagestacklayer', destinationPath + '/Back.imagestacklayer');
+  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Front.imagestacklayer', destinationPath + '/Front.imagestacklayer');
+  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Middle.imagestacklayer', destinationPath + '/Middle.imagestacklayer');
+  fs.copy(
+    templateFn(templatePath + '/Contents.json'),
+    destinationFn(destinationPath + '/Contents.json')
+  );
+}
+
+
+function createBrandAssets(fs, templateFn, destinationFn, templatePath, destinationPath) {
+  createImageStack(fs, templateFn, destinationFn, templatePath + '/App\ Icon\ -\ Large.imagestack', destinationPath + '/App\ Icon\ -\ Large.imagestack');
+  createImageStack(fs, templateFn, destinationFn, templatePath + '/App\ Icon\ -\ Small.imagestack', destinationPath + '/App\ Icon\ -\ Small.imagestack');
+  fs.copy(
+    templateFn(templatePath + '/Top\ Shelf\ Image.imageset/Contents.json'),
+    destinationFn(destinationPath + '/Top\ Shelf\ Image.imageset/Contents.json')
+  );
+  fs.copy(
+    templateFn(templatePath + '/Contents.json'),
+    destinationFn(destinationPath + '/Contents.json')
+  );
+}
+
+function createAssets(fs, templateFn, destinationFn, appname) {
+  createBrandAssets(fs, templateFn, destinationFn, 'TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets', appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets');
+  this.fs.copy(
+    this.templatePath('TvmlApp/Assets.xcassets/LaunchImage.launchimage/Contents.json'),
+    this.destinationPath(this.appname + '/Assets.xcassets/LaunchImage.launchimage/Contents.json')
+  );
+  this.fs.copy(
+    this.templatePath('TvmlApp/Assets.xcassets/Contents.json'),
+    this.destinationPath(this.appname + '/Assets.xcassets/Contents.json')
+  );
+}
+
 module.exports = generators.Base.extend({
   constructor: function () {
 
@@ -81,65 +129,9 @@ module.exports = generators.Base.extend({
           appid: this.appid
         }
       );
+      createAssets(this.fs, this.templatePath, this.destinationPath, this.appname);
 
       // App
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Back.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Back.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Back.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Back.imagestacklayer/Content.imageset/')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Front.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Front.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Front.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Front.imagestacklayer/Content.imageset/')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Middle.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Middle.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Large.imagestack/Middle.imagestacklayer/Content.imageset/')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Back.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Back.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Back.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Back.imagestacklayer/Content.imageset/')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Front.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Front.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Front.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Front.imagestacklayer/Content.imageset/')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Middle.imagestacklayer/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Middle.imagestacklayer/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets/App\ Icon\ -\ Small.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/LaunchImage.launchimage/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/LaunchImage.launchimage/Contents.json')
-      );
-      this.fs.copy(
-        this.templatePath('TvmlApp/Assets.xcassets/Contents.json'),
-        this.destinationPath(this.appname + '/Assets.xcassets/Contents.json')
-      );
-
       this.fs.copyTpl(
         this.templatePath('TvmlApp/AppDelegate.swift'),
         this.destinationPath(this.appname + '/AppDelegate.swift'),
