@@ -1,6 +1,6 @@
 # TVML Yeoman Template
 
-[![Build Status](https://travis-ci.org/hypery2k/generator-tvml.svg?branch=master)](https://travis-ci.org/hypery2k/generator-tvml) [![npm version](https://badge.fury.io/js/generator-tvml.svg)](http://badge.fury.io/js/generator-tvml) [![Dependency Status](https://david-dm.org/hypery2k/generator-tvml.svg)](https://david-dm.org/hypery2k/generator-tvml) [![devDependency Status](https://david-dm.org/hypery2k/generator-tvml/dev-status.svg)](https://david-dm.org/hypery2k/generator-tvml#info=devDependencies)
+[![Build Status](https://travis-ci.org/hypery2k/generator-tvml.svg?branch=master)](https://travis-ci.org/hypery2k/generator-tvml) [![npm version](https://badge.fury.io/js/generator-tvml.svg)](http://badge.fury.io/js/generator-tvml) [![Code Climate](https://codeclimate.com/github/hypery2k/generator-tvml/badges/gpa.svg)](https://codeclimate.com/github/hypery2k/generator-tvml) [![Dependency Status](https://david-dm.org/hypery2k/generator-tvml.svg)](https://david-dm.org/hypery2k/generator-tvml) [![devDependency Status](https://david-dm.org/hypery2k/generator-tvml/dev-status.svg)](https://david-dm.org/hypery2k/generator-tvml#info=devDependencies)
 
 > The template provides a basic TVML sceleton for tvOS which uses WebPack and LiveReloading to build apps for the AppleTV platform
 
