@@ -8,6 +8,7 @@
     "pretest": "eslint app/*.js && nsp check"
   },
   "main": "app/index.js",
+  "preferGlobal": "true",
   "files": [
     "app"
   ],
