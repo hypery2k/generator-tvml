@@ -19,6 +19,13 @@ This is a basic template which uses [atvjs](https://www.npmjs.com/package/atvjs)
 
 This template also includes livereloading and modules with WebPack and ES2015.
 
+## Usage
+
+`
+(sudo) npm install -g yo generator-tvml
+yo tvml
+`
+
 ## Creating Pages
 Create pages in your application using the page factory. You will then be able to navigate to these pages using the name of the page.
 ```
