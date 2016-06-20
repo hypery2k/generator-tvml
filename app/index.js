@@ -5,50 +5,50 @@ var chalk = require('chalk');
 var mkdirp = require('mkdirp');
 
 
-function createImageStackLayer(fs, templateFn, destinationFn, templatePath, destinationPath) {
-  fs.copy(
-    templateFn(templatePath + '/Content.imageset/Contents.json'),
-    destinationFn(destinationPath + '/Content.imageset/Contents.json')
+function createImageStackLayer(self, templatePath, destinationPath) {
+  self.fs.copy(
+    self.templatePath(templatePath + '/Content.imageset/Contents.json'),
+    self.destinationPath(destinationPath + '/Content.imageset/Contents.json')
   );
-  fs.copy(
-    templateFn(templatePath + '/Contents.json'),
-    destinationFn(destinationPath + '/Contents.json')
-  );
-}
-
-function createImageStack(fs, templateFn, destinationFn, templatePath, destinationPath) {
-  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Back.imagestacklayer', destinationPath + '/Back.imagestacklayer');
-  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Front.imagestacklayer', destinationPath + '/Front.imagestacklayer');
-  createImageStackLayer(fs, templateFn, destinationFn, templatePath + '/Middle.imagestacklayer', destinationPath + '/Middle.imagestacklayer');
-  fs.copy(
-    templateFn(templatePath + '/Contents.json'),
-    destinationFn(destinationPath + '/Contents.json')
+  self.fs.copy(
+    self.templatePath(templatePath + '/Contents.json'),
+    self.destinationPath(destinationPath + '/Contents.json')
   );
 }
 
-
-function createBrandAssets(fs, templateFn, destinationFn, templatePath, destinationPath) {
-  createImageStack(fs, templateFn, destinationFn, templatePath + '/App\ Icon\ -\ Large.imagestack', destinationPath + '/App\ Icon\ -\ Large.imagestack');
-  createImageStack(fs, templateFn, destinationFn, templatePath + '/App\ Icon\ -\ Small.imagestack', destinationPath + '/App\ Icon\ -\ Small.imagestack');
-  fs.copy(
-    templateFn(templatePath + '/Top\ Shelf\ Image.imageset/Contents.json'),
-    destinationFn(destinationPath + '/Top\ Shelf\ Image.imageset/Contents.json')
-  );
-  fs.copy(
-    templateFn(templatePath + '/Contents.json'),
-    destinationFn(destinationPath + '/Contents.json')
+function createImageStack(self, templatePath, destinationPath) {
+  createImageStackLayer(self, templatePath + '/Back.imagestacklayer', destinationPath + '/Back.imagestacklayer');
+  createImageStackLayer(self, templatePath + '/Front.imagestacklayer', destinationPath + '/Front.imagestacklayer');
+  createImageStackLayer(self, templatePath + '/Middle.imagestacklayer', destinationPath + '/Middle.imagestacklayer');
+  self.fs.copy(
+    self.templatePath(templatePath + '/Contents.json'),
+    self.destinationPath(destinationPath + '/Contents.json')
   );
 }
 
-function createAssets(fs, templateFn, destinationFn, appname) {
-  createBrandAssets(fs, templateFn, destinationFn, 'TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets', appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets');
-  this.fs.copy(
-    this.templatePath('TvmlApp/Assets.xcassets/LaunchImage.launchimage/Contents.json'),
-    this.destinationPath(this.appname + '/Assets.xcassets/LaunchImage.launchimage/Contents.json')
+
+function createBrandAssets(self, templatePath, destinationPath) {
+  createImageStack(self, templatePath + '/App\ Icon\ -\ Large.imagestack', destinationPath + '/App\ Icon\ -\ Large.imagestack');
+  createImageStack(self, templatePath + '/App\ Icon\ -\ Small.imagestack', destinationPath + '/App\ Icon\ -\ Small.imagestack');
+  self.fs.copy(
+    self.templatePath(templatePath + '/Top\ Shelf\ Image.imageset/Contents.json'),
+    self.destinationPath(destinationPath + '/Top\ Shelf\ Image.imageset/Contents.json')
   );
-  this.fs.copy(
-    this.templatePath('TvmlApp/Assets.xcassets/Contents.json'),
-    this.destinationPath(this.appname + '/Assets.xcassets/Contents.json')
+  self.fs.copy(
+    self.templatePath(templatePath + '/Contents.json'),
+    self.destinationPath(destinationPath + '/Contents.json')
+  );
+}
+
+function createAssets(self) {
+  createBrandAssets(self, self.templatePath('TvmlApp/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets'), self.appname + '/Assets.xcassets/App\ Icon\ \&\ Top\ Shelf\ Image.brandassets');
+  self.fs.copy(
+    self.templatePath('TvmlApp/Assets.xcassets/LaunchImage.launchimage/Contents.json'),
+    self.destinationPath(self.appname + '/Assets.xcassets/LaunchImage.launchimage/Contents.json')
+  );
+  self.fs.copy(
+    self.templatePath('TvmlApp/Assets.xcassets/Contents.json'),
+    self.destinationPath(self.appname + '/Assets.xcassets/Contents.json')
   );
 }
 
@@ -70,13 +70,12 @@ module.exports = generators.Base.extend({
     this.option('appname', {
       desc: 'Name of the app',
       type: String,
-      defaults: 'tvml-app'
+      defaults: this.appname
     });
 
     this.option('appid', {
       desc: 'Id of the app',
-      type: String,
-      defaults: 'org.sample.tvml-app'
+      type: String
     });
   },
 
@@ -87,30 +86,37 @@ module.exports = generators.Base.extend({
       this.log(yosay('I create a scaffold for creating JavasScript-based TVML tvOS Apps.  '));
     }
 
-    var prompts = [{
-      type: 'input',
-      name: 'name',
-      message: 'Your App name',
-      default: 'tvmlApp'
-    }, {
-      type: 'input',
-      name: 'id',
-      message: 'Your App ID',
-      default: 'org.sample.tvml-app'
-    }];
-
-    this.prompt(prompts, function (answers) {
-      this.appname = answers.name;
-      this.appid = answers.id;
+    if (this.options.appname && this.options.appid) {
+      this.appname = this.options.appname;
+      this.appid = this.options.appid;
       done();
-    }.bind(this));
+    } else {
+
+      var prompts = [{
+        type: 'input',
+        name: 'name',
+        message: 'Your App name',
+        default: this.appname
+      }, {
+        type: 'input',
+        name: 'id',
+        message: 'Your App ID',
+        default: 'org.sample.tvml-app'
+      }];
+
+      this.prompt(prompts, function (answers) {
+        this.appname = answers.name;
+        this.appid = answers.id;
+        done();
+      }.bind(this));
+    }
+
   },
 
   writing: {
 
     xcode: function () {
       mkdirp(this.appname + '/dist');
-
 
       // Xcode
       this.fs.copyTpl(
@@ -129,7 +135,7 @@ module.exports = generators.Base.extend({
           appid: this.appid
         }
       );
-      createAssets(this.fs, this.templatePath, this.destinationPath, this.appname);
+      createAssets(this);
 
       // App
       this.fs.copyTpl(
