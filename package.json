@@ -1,13 +1,12 @@
 {
   "name": "generator-tvml",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Scaffold TVML Apps which can be developed with ES2015 modules using webpack including livereload",
   "main": "app/index.js",
   "scripts": {
     "test": "mocha --reporter spec --timeout 3000 && npm link && mkdir -p tmp && cd tmp && yo tvml --appname=test --appid=de.test",
     "pretest": "eslint app/*.js && nsp check"
   },
-  "main": "app/index.js",
   "preferGlobal": "true",
   "files": [
     "app"
@@ -24,10 +23,9 @@
   ],
   "dependencies": {
     "chalk": "1.1.3",
-    "generator-jasmine": "0.2.2",
     "mkdirp": "0.5.1",
     "yeoman-generator": "0.22.5",
-    "yosay": "1.1.1"
+    "yosay": "1.2.0"
   },
   "devDependencies": {
     "async": "2.0.0-rc.6",
