@@ -1,6 +1,6 @@
 properties properties: [
   [$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '30', numToKeepStr: '10']],
-  [$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/hypery2k/tvml-webpack-plugin/'],
+  [$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/hypery2k/generator-tvml/'],
 ]
 
 node {
@@ -18,6 +18,10 @@ node {
     echo "PATH is $env.PATH"
 
     try {
+      stage('Clean workspace') {
+        deleteDir()
+      }
+
       stage('Checkout') {
         checkout scm
       }
@@ -38,7 +42,7 @@ node {
       }
 
     } catch (e){
-      mail subject: 'Error on build', to: 'contact@martinreinhardt-online.de'
+      mail subject: "${env.JOB_NAME} (${env.BUILD_NUMBER}): Error on build", to: 'github@martinreinhardt-online.de', body: "Please go to ${env.BUILD_URL}."
       throw e
     }
   }
