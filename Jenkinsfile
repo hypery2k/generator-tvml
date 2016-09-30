@@ -35,6 +35,10 @@ node {
         junit 'reports/TEST-*.xml'
       }
 
+      stage('Integration-Test') {
+        sh "npm run e2e"
+      }
+
       stage('Publish NPM snapshot') {
         def currentVersion = sh(returnStdout: true, script: "npm version | grep \"{\" | tr -s ':'  | cut -d \"'\" -f 4").trim()
         def newVersion = "${currentVersion}-${buildNumber}"

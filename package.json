@@ -4,8 +4,9 @@
   "description": "Scaffold TVML Apps which can be developed with ES2015 modules using webpack including livereload",
   "main": "app/index.js",
   "scripts": {
-    "test": "mocha --reporter spec --timeout 3000 && npm link && mkdir -p tmp && cd tmp && yo tvml --appname=test --appid=de.test",
-    "pretest": "eslint app/*.js && nsp check"
+    "test": "mocha --reporter spec --timeout 3000",
+    "pretest": "eslint app/*.js && nsp check",
+    "e2e": "npm link && mkdir -p tmp && cd tmp && yo tvml --appname='test' ---appid='com.test' &&  cd tmp/test xcodebuild clean build -scheme test -sdk appletvos10.0 -configuration Debug -target i386 CODE_SIGN_IDENTITY=\"\" CODE_SIGNING_REQUIRED=NO"
   },
   "preferGlobal": "true",
   "files": [
@@ -38,7 +39,8 @@
     "nsp": "2.4.0",
     "underscore.string": "3.3.4",
     "yeoman-assert": "2.1.1",
-    "yeoman-test": "1.1.0"
+    "yeoman-test": "1.1.0",
+    "yo": "1.8.5"
   },
   "author": "Martin Reinhardt",
   "license": "MIT",
