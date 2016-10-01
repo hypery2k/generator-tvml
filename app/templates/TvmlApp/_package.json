@@ -4,7 +4,7 @@
   "description": "<%= appname %> tvOS App",
   "private": true,
   "dependencies": {
-    "atvjs": "0.2.3",
+    "atvjs": "0.2.5",
     "jade": "1.11.0"
   },
   "devDependencies": {
