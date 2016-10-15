@@ -6,6 +6,7 @@
 build/
 DerivedData/
 tmp/
+*.log
 
 ## Various settings
 *.pbxuser
