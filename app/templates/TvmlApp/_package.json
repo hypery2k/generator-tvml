@@ -4,7 +4,7 @@
   "description": "<%= appname %> tvOS App",
   "private": true,
   "dependencies": {
-    "atvjs": "0.2.3",
+    "atvjs": "0.2.5",
     "jade": "1.11.0"
   },
   "devDependencies": {
@@ -24,7 +24,7 @@
     "imports-loader": "0.6.5",
     "jade-loader": "0.8.0",
     "jasmine": "2.4.1",
-    "tvml-webpack-plugin": "next",
+    "tvml-webpack-plugin": "0.2.3",
     "webpack": "1.12.9",
     "webpack-dev-server": "1.14.1"
   },
