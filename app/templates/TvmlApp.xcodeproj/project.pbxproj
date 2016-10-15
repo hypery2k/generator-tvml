@@ -199,18 +199,21 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "Martin Reinhardt";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					0D2ECF9A1D06A51A002F6594 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
 					};
 					0D2ECFA81D06A51A002F6594 = {
 						CreatedOnToolsVersion = 7.3.1;
 						TestTargetID = 0D2ECF9A1D06A51A002F6594;
+						LastSwiftMigration = 0800;
 					};
 					0D2ECFB31D06A51A002F6594 = {
 						CreatedOnToolsVersion = 7.3.1;
 						TestTargetID = 0D2ECF9A1D06A51A002F6594;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
