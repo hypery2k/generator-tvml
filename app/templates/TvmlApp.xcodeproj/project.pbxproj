@@ -386,6 +386,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
+				SWIFT_VERSION = 3.0;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -399,6 +400,7 @@
 				INFOPLIST_FILE = <%= appname %>/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>";
+				SWIFT_VERSION = 3.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -411,6 +413,7 @@
 				INFOPLIST_FILE = <%= appname %>/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>";
+				SWIFT_VERSION = 3.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -424,6 +427,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/<%= appname %>.app/<%= appname %>";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -436,6 +440,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/<%= appname %>.app/<%= appname %>";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -447,6 +452,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = <%= appname %>;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -458,6 +464,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "<%= appid %>UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = <%= appname %>;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
