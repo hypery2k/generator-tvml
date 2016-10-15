@@ -5,30 +5,30 @@
     "abbrev": {
       "version": "1.0.9",
       "from": "abbrev@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/abbrev/-/abbrev-1.0.9.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/abbrev/-/abbrev-1.0.9.tgz"
     },
     "acorn": {
       "version": "3.2.0",
       "from": "acorn@>=3.1.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/acorn/-/acorn-3.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/acorn/-/acorn-3.2.0.tgz",
       "dev": true
     },
     "acorn-jsx": {
       "version": "3.0.1",
       "from": "acorn-jsx@>=3.0.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/acorn-jsx/-/acorn-jsx-3.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/acorn-jsx/-/acorn-jsx-3.0.1.tgz",
       "dev": true
     },
     "amdefine": {
       "version": "1.0.0",
       "from": "amdefine@>=0.0.4",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/amdefine/-/amdefine-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/amdefine/-/amdefine-1.0.0.tgz",
       "optional": true
     },
     "ansi": {
       "version": "0.3.1",
       "from": "ansi@>=0.3.1 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/ansi/-/ansi-0.3.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/ansi/-/ansi-0.3.1.tgz",
       "dev": true
     },
     "ansi-escapes": {
@@ -39,12 +39,12 @@
     "ansi-regex": {
       "version": "2.0.0",
       "from": "ansi-regex@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ansi-regex/-/ansi-regex-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/ansi-regex/-/ansi-regex-2.0.0.tgz"
     },
     "ansi-styles": {
       "version": "2.2.1",
       "from": "ansi-styles@>=2.2.1 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ansi-styles/-/ansi-styles-2.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/ansi-styles/-/ansi-styles-2.2.1.tgz"
     },
     "archive-type": {
       "version": "3.2.0",
@@ -54,34 +54,34 @@
     "are-we-there-yet": {
       "version": "1.1.2",
       "from": "are-we-there-yet@>=1.1.2 <1.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/are-we-there-yet/-/are-we-there-yet-1.1.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/are-we-there-yet/-/are-we-there-yet-1.1.2.tgz",
       "dev": true
     },
     "argparse": {
       "version": "1.0.7",
       "from": "argparse@>=1.0.7 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/argparse/-/argparse-1.0.7.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/argparse/-/argparse-1.0.7.tgz",
       "dev": true
     },
     "arr-diff": {
       "version": "2.0.0",
       "from": "arr-diff@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/arr-diff/-/arr-diff-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/arr-diff/-/arr-diff-2.0.0.tgz"
     },
     "arr-flatten": {
       "version": "1.0.1",
       "from": "arr-flatten@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/arr-flatten/-/arr-flatten-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/arr-flatten/-/arr-flatten-1.0.1.tgz"
     },
     "array-differ": {
       "version": "1.0.0",
       "from": "array-differ@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/array-differ/-/array-differ-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/array-differ/-/array-differ-1.0.0.tgz"
     },
     "array-find-index": {
       "version": "1.0.1",
       "from": "array-find-index@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/array-find-index/-/array-find-index-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/array-find-index/-/array-find-index-1.0.1.tgz"
     },
     "array-union": {
       "version": "1.0.2",
@@ -96,7 +96,7 @@
     "array-unique": {
       "version": "0.2.1",
       "from": "array-unique@>=0.2.1 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/array-unique/-/array-unique-0.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/array-unique/-/array-unique-0.2.1.tgz"
     },
     "arrify": {
       "version": "1.0.1",
@@ -106,13 +106,13 @@
     "asn1": {
       "version": "0.2.3",
       "from": "asn1@>=0.2.3 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/asn1/-/asn1-0.2.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/asn1/-/asn1-0.2.3.tgz",
       "dev": true
     },
     "assert-plus": {
       "version": "0.2.0",
       "from": "assert-plus@>=0.2.0 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/assert-plus/-/assert-plus-0.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/assert-plus/-/assert-plus-0.2.0.tgz",
       "dev": true
     },
     "ast-query": {
@@ -123,7 +123,7 @@
         "lodash": {
           "version": "4.13.1",
           "from": "lodash@>=4.6.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-4.13.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-4.13.1.tgz"
         }
       }
     },
@@ -136,7 +136,7 @@
         "lodash": {
           "version": "4.16.2",
           "from": "lodash@>=4.8.0 <5.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/lodash/-/lodash-4.16.2.tgz",
+          "resolved": "https://registry.npmjs.org/npm/lodash/-/lodash-4.16.2.tgz",
           "dev": true
         }
       }
@@ -150,13 +150,13 @@
     "aws-sign2": {
       "version": "0.6.0",
       "from": "aws-sign2@>=0.6.0 <0.7.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/aws-sign2/-/aws-sign2-0.6.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/aws-sign2/-/aws-sign2-0.6.0.tgz",
       "dev": true
     },
     "aws4": {
       "version": "1.4.1",
       "from": "aws4@>=1.2.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/aws4/-/aws4-1.4.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/aws4/-/aws4-1.4.1.tgz",
       "dev": true
     },
     "balanced-match": {
@@ -167,7 +167,7 @@
     "bcrypt-pbkdf": {
       "version": "1.0.0",
       "from": "bcrypt-pbkdf@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.0.tgz",
       "dev": true,
       "optional": true
     },
@@ -179,13 +179,13 @@
     "bin-version": {
       "version": "1.0.4",
       "from": "bin-version@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/bin-version/-/bin-version-1.0.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm/bin-version/-/bin-version-1.0.4.tgz",
       "dev": true
     },
     "bin-version-check": {
       "version": "2.1.0",
       "from": "bin-version-check@>=2.1.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/bin-version-check/-/bin-version-check-2.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/bin-version-check/-/bin-version-check-2.1.0.tgz",
       "dev": true,
       "dependencies": {
         "minimist": {
@@ -210,12 +210,12 @@
     "bl": {
       "version": "1.1.2",
       "from": "bl@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/bl/-/bl-1.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/bl/-/bl-1.1.2.tgz"
     },
     "bluebird": {
       "version": "3.4.1",
       "from": "bluebird@>=3.1.1 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/bluebird/-/bluebird-3.4.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/bluebird/-/bluebird-3.4.1.tgz",
       "dev": true
     },
     "boolbase": {
@@ -226,7 +226,7 @@
     "boom": {
       "version": "2.10.1",
       "from": "boom@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/boom/-/boom-2.10.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/boom/-/boom-2.10.1.tgz",
       "dev": true
     },
     "boxen": {
@@ -251,12 +251,12 @@
     "braces": {
       "version": "1.8.5",
       "from": "braces@>=1.8.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/braces/-/braces-1.8.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/braces/-/braces-1.8.5.tgz"
     },
     "buffer-crc32": {
       "version": "0.2.5",
       "from": "buffer-crc32@>=0.2.3 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/buffer-crc32/-/buffer-crc32-0.2.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/buffer-crc32/-/buffer-crc32-0.2.5.tgz"
     },
     "buffer-to-vinyl": {
       "version": "1.1.0",
@@ -266,29 +266,29 @@
     "builtin-modules": {
       "version": "1.1.1",
       "from": "builtin-modules@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/builtin-modules/-/builtin-modules-1.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/builtin-modules/-/builtin-modules-1.1.1.tgz"
     },
     "caller-path": {
       "version": "0.1.0",
       "from": "caller-path@>=0.1.0 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/caller-path/-/caller-path-0.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/caller-path/-/caller-path-0.1.0.tgz",
       "dev": true
     },
     "callsites": {
       "version": "0.2.0",
       "from": "callsites@>=0.2.0 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/callsites/-/callsites-0.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/callsites/-/callsites-0.2.0.tgz",
       "dev": true
     },
     "camelcase": {
       "version": "2.1.1",
       "from": "camelcase@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/camelcase/-/camelcase-2.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/camelcase/-/camelcase-2.1.1.tgz"
     },
     "camelcase-keys": {
       "version": "2.1.0",
       "from": "camelcase-keys@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/camelcase-keys/-/camelcase-keys-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/camelcase-keys/-/camelcase-keys-2.1.0.tgz"
     },
     "capture-stack-trace": {
       "version": "1.0.0",
@@ -298,7 +298,7 @@
     "caseless": {
       "version": "0.11.0",
       "from": "caseless@>=0.11.0 <0.12.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/caseless/-/caseless-0.11.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/caseless/-/caseless-0.11.0.tgz",
       "dev": true
     },
     "caw": {
@@ -316,7 +316,7 @@
     "chalk": {
       "version": "1.1.3",
       "from": "chalk@1.1.3",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/chalk/-/chalk-1.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/chalk/-/chalk-1.1.3.tgz"
     },
     "cheerio": {
       "version": "0.19.0",
@@ -347,7 +347,7 @@
     "cli-table": {
       "version": "0.3.1",
       "from": "cli-table@>=0.3.1 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cli-table/-/cli-table-0.3.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/cli-table/-/cli-table-0.3.1.tgz"
     },
     "cli-width": {
       "version": "1.1.1",
@@ -378,17 +378,17 @@
     "code-point-at": {
       "version": "1.0.0",
       "from": "code-point-at@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/code-point-at/-/code-point-at-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/code-point-at/-/code-point-at-1.0.0.tgz"
     },
     "colors": {
       "version": "1.0.3",
       "from": "colors@1.0.3",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/colors/-/colors-1.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/colors/-/colors-1.0.3.tgz"
     },
     "combined-stream": {
       "version": "1.0.5",
       "from": "combined-stream@>=1.0.5 <1.1.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/combined-stream/-/combined-stream-1.0.5.tgz",
+      "resolved": "https://registry.npmjs.org/npm/combined-stream/-/combined-stream-1.0.5.tgz",
       "dev": true
     },
     "commander": {
@@ -410,12 +410,12 @@
     "concat-stream": {
       "version": "1.5.1",
       "from": "concat-stream@>=1.4.7 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/concat-stream/-/concat-stream-1.5.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/concat-stream/-/concat-stream-1.5.1.tgz"
     },
     "config-chain": {
       "version": "1.1.10",
       "from": "config-chain@>=1.1.8 <1.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/config-chain/-/config-chain-1.1.10.tgz",
+      "resolved": "https://registry.npmjs.org/npm/config-chain/-/config-chain-1.1.10.tgz",
       "dev": true
     },
     "configstore": {
@@ -435,12 +435,12 @@
     "convert-source-map": {
       "version": "1.2.0",
       "from": "convert-source-map@>=1.1.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/convert-source-map/-/convert-source-map-1.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/convert-source-map/-/convert-source-map-1.2.0.tgz"
     },
     "core-util-is": {
       "version": "1.0.2",
       "from": "core-util-is@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/core-util-is/-/core-util-is-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/core-util-is/-/core-util-is-1.0.2.tgz"
     },
     "create-error-class": {
       "version": "3.0.2",
@@ -460,7 +460,7 @@
     "cryptiles": {
       "version": "2.0.5",
       "from": "cryptiles@>=2.0.0 <3.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/cryptiles/-/cryptiles-2.0.5.tgz",
+      "resolved": "https://registry.npmjs.org/npm/cryptiles/-/cryptiles-2.0.5.tgz",
       "dev": true
     },
     "css-select": {
@@ -476,12 +476,12 @@
     "currently-unhandled": {
       "version": "0.4.1",
       "from": "currently-unhandled@>=0.4.1 <0.5.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/currently-unhandled/-/currently-unhandled-0.4.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/currently-unhandled/-/currently-unhandled-0.4.1.tgz"
     },
     "d": {
       "version": "0.1.1",
       "from": "d@>=0.1.1 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/d/-/d-0.1.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/d/-/d-0.1.1.tgz",
       "dev": true
     },
     "dargs": {
@@ -492,13 +492,13 @@
     "dashdash": {
       "version": "1.14.0",
       "from": "dashdash@>=1.12.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/dashdash/-/dashdash-1.14.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/dashdash/-/dashdash-1.14.0.tgz",
       "dev": true,
       "dependencies": {
         "assert-plus": {
           "version": "1.0.0",
           "from": "assert-plus@>=1.0.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/assert-plus/-/assert-plus-1.0.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/assert-plus/-/assert-plus-1.0.0.tgz",
           "dev": true
         }
       }
@@ -506,7 +506,7 @@
     "dateformat": {
       "version": "1.0.12",
       "from": "dateformat@>=1.0.11 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/dateformat/-/dateformat-1.0.12.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/dateformat/-/dateformat-1.0.12.tgz"
     },
     "debug": {
       "version": "2.2.0",
@@ -516,7 +516,7 @@
     "decamelize": {
       "version": "1.2.0",
       "from": "decamelize@>=1.1.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/decamelize/-/decamelize-1.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/decamelize/-/decamelize-1.2.0.tgz"
     },
     "decompress": {
       "version": "3.0.0",
@@ -536,12 +536,12 @@
         "isarray": {
           "version": "0.0.1",
           "from": "isarray@0.0.1",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isarray/-/isarray-0.0.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/isarray/-/isarray-0.0.1.tgz"
         },
         "readable-stream": {
           "version": "1.0.34",
           "from": "readable-stream@>=1.0.33-1 <1.1.0-0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/readable-stream/-/readable-stream-1.0.34.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/readable-stream/-/readable-stream-1.0.34.tgz"
         },
         "through2": {
           "version": "0.6.5",
@@ -627,12 +627,12 @@
     "deep-extend": {
       "version": "0.4.1",
       "from": "deep-extend@>=0.4.0 <0.5.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/deep-extend/-/deep-extend-0.4.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/deep-extend/-/deep-extend-0.4.1.tgz"
     },
     "deep-is": {
       "version": "0.1.3",
       "from": "deep-is@>=0.1.3 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/deep-is/-/deep-is-0.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/deep-is/-/deep-is-0.1.3.tgz"
     },
     "default-uid": {
       "version": "1.0.0",
@@ -643,13 +643,13 @@
     "del": {
       "version": "2.2.1",
       "from": "del@>=2.0.2 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/del/-/del-2.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/del/-/del-2.2.1.tgz",
       "dev": true,
       "dependencies": {
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
           "dev": true
         }
       }
@@ -657,13 +657,13 @@
     "delayed-stream": {
       "version": "1.0.0",
       "from": "delayed-stream@>=1.0.0 <1.1.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/delayed-stream/-/delayed-stream-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/delayed-stream/-/delayed-stream-1.0.0.tgz",
       "dev": true
     },
     "delegates": {
       "version": "1.0.0",
       "from": "delegates@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/delegates/-/delegates-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/delegates/-/delegates-1.0.0.tgz",
       "dev": true
     },
     "detect-conflict": {
@@ -692,13 +692,13 @@
     "doctrine": {
       "version": "1.2.2",
       "from": "doctrine@>=1.2.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/doctrine/-/doctrine-1.2.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/doctrine/-/doctrine-1.2.2.tgz",
       "dev": true,
       "dependencies": {
         "esutils": {
           "version": "1.1.6",
           "from": "esutils@>=1.1.6 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/esutils/-/esutils-1.1.6.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/esutils/-/esutils-1.1.6.tgz",
           "dev": true
         }
       }
@@ -706,24 +706,24 @@
     "dom-serializer": {
       "version": "0.1.0",
       "from": "dom-serializer@>=0.1.0 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/dom-serializer/-/dom-serializer-0.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/dom-serializer/-/dom-serializer-0.1.0.tgz",
       "dependencies": {
         "domelementtype": {
           "version": "1.1.3",
           "from": "domelementtype@>=1.1.1 <1.2.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/domelementtype/-/domelementtype-1.1.3.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/domelementtype/-/domelementtype-1.1.3.tgz"
         }
       }
     },
     "domelementtype": {
       "version": "1.3.0",
       "from": "domelementtype@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/domelementtype/-/domelementtype-1.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/domelementtype/-/domelementtype-1.3.0.tgz"
     },
     "domhandler": {
       "version": "2.3.0",
       "from": "domhandler@>=2.3.0 <2.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/domhandler/-/domhandler-2.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/domhandler/-/domhandler-2.3.0.tgz"
     },
     "domutils": {
       "version": "1.4.3",
@@ -779,7 +779,7 @@
     "ecc-jsbn": {
       "version": "0.1.1",
       "from": "ecc-jsbn@>=0.1.1 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz",
       "dev": true,
       "optional": true
     },
@@ -791,12 +791,12 @@
     "end-of-stream": {
       "version": "1.1.0",
       "from": "end-of-stream@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/end-of-stream/-/end-of-stream-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/end-of-stream/-/end-of-stream-1.1.0.tgz"
     },
     "entities": {
       "version": "1.1.1",
       "from": "entities@>=1.1.1 <1.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/entities/-/entities-1.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/entities/-/entities-1.1.1.tgz"
     },
     "error": {
       "version": "7.0.2",
@@ -806,18 +806,18 @@
     "error-ex": {
       "version": "1.3.0",
       "from": "error-ex@>=1.2.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/error-ex/-/error-ex-1.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/error-ex/-/error-ex-1.3.0.tgz"
     },
     "es5-ext": {
       "version": "0.10.11",
       "from": "es5-ext@>=0.10.11 <0.11.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es5-ext/-/es5-ext-0.10.11.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es5-ext/-/es5-ext-0.10.11.tgz",
       "dev": true,
       "dependencies": {
         "es6-symbol": {
           "version": "3.0.2",
           "from": "es6-symbol@>=3.0.2 <3.1.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-symbol/-/es6-symbol-3.0.2.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/es6-symbol/-/es6-symbol-3.0.2.tgz",
           "dev": true
         }
       }
@@ -825,53 +825,53 @@
     "es6-iterator": {
       "version": "2.0.0",
       "from": "es6-iterator@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-iterator/-/es6-iterator-2.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es6-iterator/-/es6-iterator-2.0.0.tgz",
       "dev": true
     },
     "es6-map": {
       "version": "0.1.4",
       "from": "es6-map@>=0.1.3 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-map/-/es6-map-0.1.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es6-map/-/es6-map-0.1.4.tgz",
       "dev": true
     },
     "es6-set": {
       "version": "0.1.4",
       "from": "es6-set@>=0.1.3 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-set/-/es6-set-0.1.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es6-set/-/es6-set-0.1.4.tgz",
       "dev": true
     },
     "es6-symbol": {
       "version": "3.1.0",
       "from": "es6-symbol@>=3.1.0 <3.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-symbol/-/es6-symbol-3.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es6-symbol/-/es6-symbol-3.1.0.tgz",
       "dev": true
     },
     "es6-weak-map": {
       "version": "2.0.1",
       "from": "es6-weak-map@>=2.0.1 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/es6-weak-map/-/es6-weak-map-2.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/es6-weak-map/-/es6-weak-map-2.0.1.tgz",
       "dev": true
     },
     "escape-string-regexp": {
       "version": "1.0.5",
       "from": "escape-string-regexp@>=1.0.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
     },
     "escodegen": {
       "version": "1.8.0",
       "from": "escodegen@>=1.6.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/escodegen/-/escodegen-1.8.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/escodegen/-/escodegen-1.8.0.tgz"
     },
     "escope": {
       "version": "3.6.0",
       "from": "escope@>=3.6.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/escope/-/escope-3.6.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/escope/-/escope-3.6.0.tgz",
       "dev": true,
       "dependencies": {
         "estraverse": {
           "version": "4.2.0",
           "from": "estraverse@>=4.1.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/estraverse/-/estraverse-4.2.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/estraverse/-/estraverse-4.2.0.tgz",
           "dev": true
         }
       }
@@ -885,25 +885,25 @@
         "cli-width": {
           "version": "2.1.0",
           "from": "cli-width@>=2.0.0 <3.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cli-width/-/cli-width-2.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/cli-width/-/cli-width-2.1.0.tgz",
           "dev": true
         },
         "estraverse": {
           "version": "4.2.0",
           "from": "estraverse@>=4.2.0 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/estraverse/-/estraverse-4.2.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/estraverse/-/estraverse-4.2.0.tgz",
           "dev": true
         },
         "glob": {
           "version": "7.1.0",
           "from": "glob@>=7.0.3 <8.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/glob/-/glob-7.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/glob/-/glob-7.1.0.tgz",
           "dev": true
         },
         "inquirer": {
           "version": "0.12.0",
           "from": "inquirer@>=0.12.0 <0.13.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/inquirer/-/inquirer-0.12.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/inquirer/-/inquirer-0.12.0.tgz",
           "dev": true
         },
         "lodash": {
@@ -915,7 +915,7 @@
         "shelljs": {
           "version": "0.6.1",
           "from": "shelljs@>=0.6.0 <0.7.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/shelljs/-/shelljs-0.6.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm/shelljs/-/shelljs-0.6.1.tgz",
           "dev": true
         }
       }
@@ -929,24 +929,24 @@
     "esprima": {
       "version": "2.7.2",
       "from": "esprima@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/esprima/-/esprima-2.7.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/esprima/-/esprima-2.7.2.tgz"
     },
     "esrecurse": {
       "version": "4.1.0",
       "from": "esrecurse@>=4.1.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/esrecurse/-/esrecurse-4.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/esrecurse/-/esrecurse-4.1.0.tgz",
       "dev": true,
       "dependencies": {
         "estraverse": {
           "version": "4.1.1",
           "from": "estraverse@>=4.1.0 <4.2.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/estraverse/-/estraverse-4.1.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/estraverse/-/estraverse-4.1.1.tgz",
           "dev": true
         },
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
           "dev": true
         }
       }
@@ -954,17 +954,17 @@
     "estraverse": {
       "version": "1.9.3",
       "from": "estraverse@>=1.9.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/estraverse/-/estraverse-1.9.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/estraverse/-/estraverse-1.9.3.tgz"
     },
     "esutils": {
       "version": "2.0.2",
       "from": "esutils@>=2.0.2 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/esutils/-/esutils-2.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/esutils/-/esutils-2.0.2.tgz"
     },
     "event-emitter": {
       "version": "0.3.4",
       "from": "event-emitter@>=0.3.4 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/event-emitter/-/event-emitter-0.3.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/event-emitter/-/event-emitter-0.3.4.tgz",
       "dev": true
     },
     "execall": {
@@ -981,12 +981,12 @@
     "expand-brackets": {
       "version": "0.1.5",
       "from": "expand-brackets@>=0.1.4 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/expand-brackets/-/expand-brackets-0.1.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/expand-brackets/-/expand-brackets-0.1.5.tgz"
     },
     "expand-range": {
       "version": "1.8.2",
       "from": "expand-range@>=1.8.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/expand-range/-/expand-range-1.8.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/expand-range/-/expand-range-1.8.2.tgz"
     },
     "extend": {
       "version": "3.0.0",
@@ -1007,12 +1007,12 @@
     "extglob": {
       "version": "0.3.2",
       "from": "extglob@>=0.3.1 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/extglob/-/extglob-0.3.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/extglob/-/extglob-0.3.2.tgz"
     },
     "extsprintf": {
       "version": "1.0.2",
       "from": "extsprintf@1.0.2",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/extsprintf/-/extsprintf-1.0.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/extsprintf/-/extsprintf-1.0.2.tgz",
       "dev": true
     },
     "fancy-log": {
@@ -1023,12 +1023,12 @@
     "fast-levenshtein": {
       "version": "1.1.3",
       "from": "fast-levenshtein@>=1.1.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/fast-levenshtein/-/fast-levenshtein-1.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/fast-levenshtein/-/fast-levenshtein-1.1.3.tgz"
     },
     "fd-slicer": {
       "version": "1.0.1",
       "from": "fd-slicer@>=1.0.1 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/fd-slicer/-/fd-slicer-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/fd-slicer/-/fd-slicer-1.0.1.tgz"
     },
     "figures": {
       "version": "1.7.0",
@@ -1038,20 +1038,20 @@
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.1.0 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
         }
       }
     },
     "file-entry-cache": {
       "version": "1.2.4",
       "from": "file-entry-cache@>=1.1.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/file-entry-cache/-/file-entry-cache-1.2.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/file-entry-cache/-/file-entry-cache-1.2.4.tgz",
       "dev": true,
       "dependencies": {
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
           "dev": true
         }
       }
@@ -1064,7 +1064,7 @@
     "filename-regex": {
       "version": "2.0.0",
       "from": "filename-regex@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/filename-regex/-/filename-regex-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/filename-regex/-/filename-regex-2.0.0.tgz"
     },
     "filename-reserved-regex": {
       "version": "1.0.0",
@@ -1079,23 +1079,23 @@
     "fill-range": {
       "version": "2.2.3",
       "from": "fill-range@>=2.1.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/fill-range/-/fill-range-2.2.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/fill-range/-/fill-range-2.2.3.tgz"
     },
     "filled-array": {
       "version": "1.1.0",
       "from": "filled-array@>=1.0.0 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/filled-array/-/filled-array-1.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/filled-array/-/filled-array-1.1.0.tgz",
       "dev": true
     },
     "find-up": {
       "version": "1.1.2",
       "from": "find-up@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/find-up/-/find-up-1.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/find-up/-/find-up-1.1.2.tgz"
     },
     "find-versions": {
       "version": "1.2.1",
       "from": "find-versions@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/find-versions/-/find-versions-1.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/find-versions/-/find-versions-1.2.1.tgz",
       "dev": true
     },
     "first-chunk-stream": {
@@ -1106,18 +1106,18 @@
     "flat-cache": {
       "version": "1.0.10",
       "from": "flat-cache@>=1.0.9 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/flat-cache/-/flat-cache-1.0.10.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/flat-cache/-/flat-cache-1.0.10.tgz",
       "dev": true
     },
     "for-in": {
       "version": "0.1.5",
       "from": "for-in@>=0.1.5 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/for-in/-/for-in-0.1.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/for-in/-/for-in-0.1.5.tgz"
     },
     "for-own": {
       "version": "0.1.4",
       "from": "for-own@>=0.1.3 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/for-own/-/for-own-0.1.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/for-own/-/for-own-0.1.4.tgz"
     },
     "foreachasync": {
       "version": "3.0.0",
@@ -1128,7 +1128,7 @@
     "forever-agent": {
       "version": "0.6.1",
       "from": "forever-agent@>=0.6.1 <0.7.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/forever-agent/-/forever-agent-0.6.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/forever-agent/-/forever-agent-0.6.1.tgz",
       "dev": true
     },
     "form-data": {
@@ -1156,7 +1156,7 @@
     "gauge": {
       "version": "1.2.7",
       "from": "gauge@>=1.2.5 <1.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/gauge/-/gauge-1.2.7.tgz",
+      "resolved": "https://registry.npmjs.org/npm/gauge/-/gauge-1.2.7.tgz",
       "dev": true
     },
     "generate-function": {
@@ -1179,18 +1179,18 @@
     "get-stdin": {
       "version": "4.0.1",
       "from": "get-stdin@>=4.0.1 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/get-stdin/-/get-stdin-4.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/get-stdin/-/get-stdin-4.0.1.tgz"
     },
     "getpass": {
       "version": "0.1.6",
       "from": "getpass@>=0.1.1 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/getpass/-/getpass-0.1.6.tgz",
+      "resolved": "https://registry.npmjs.org/npm/getpass/-/getpass-0.1.6.tgz",
       "dev": true,
       "dependencies": {
         "assert-plus": {
           "version": "1.0.0",
           "from": "assert-plus@>=1.0.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/assert-plus/-/assert-plus-1.0.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/assert-plus/-/assert-plus-1.0.0.tgz",
           "dev": true
         }
       }
@@ -1215,17 +1215,17 @@
     "glob": {
       "version": "6.0.4",
       "from": "glob@>=6.0.1 <7.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-6.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-6.0.4.tgz"
     },
     "glob-base": {
       "version": "0.3.0",
       "from": "glob-base@>=0.3.0 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob-base/-/glob-base-0.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/glob-base/-/glob-base-0.3.0.tgz"
     },
     "glob-parent": {
       "version": "2.0.0",
       "from": "glob-parent@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob-parent/-/glob-parent-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/glob-parent/-/glob-parent-2.0.0.tgz"
     },
     "glob-stream": {
       "version": "5.3.2",
@@ -1235,7 +1235,7 @@
         "glob": {
           "version": "5.0.15",
           "from": "glob@>=5.0.3 <6.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-5.0.15.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-5.0.15.tgz"
         },
         "isarray": {
           "version": "0.0.1",
@@ -1257,25 +1257,25 @@
     "globals": {
       "version": "9.8.0",
       "from": "globals@>=9.2.0 <10.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/globals/-/globals-9.8.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/globals/-/globals-9.8.0.tgz",
       "dev": true
     },
     "globby": {
       "version": "5.0.0",
       "from": "globby@>=5.0.0 <6.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/globby/-/globby-5.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/globby/-/globby-5.0.0.tgz",
       "dev": true,
       "dependencies": {
         "glob": {
           "version": "7.0.5",
           "from": "glob@>=7.0.3 <8.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-7.0.5.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-7.0.5.tgz",
           "dev": true
         },
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz",
           "dev": true
         }
       }
@@ -1300,12 +1300,12 @@
     "graceful-fs": {
       "version": "4.1.4",
       "from": "graceful-fs@>=4.1.2 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/graceful-fs/-/graceful-fs-4.1.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/graceful-fs/-/graceful-fs-4.1.4.tgz"
     },
     "graceful-readlink": {
       "version": "1.0.1",
       "from": "graceful-readlink@>=1.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/graceful-readlink/-/graceful-readlink-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/graceful-readlink/-/graceful-readlink-1.0.1.tgz"
     },
     "grouped-queue": {
       "version": "0.3.2",
@@ -1326,7 +1326,7 @@
         "lodash": {
           "version": "4.13.1",
           "from": "lodash@>=4.6.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-4.13.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-4.13.1.tgz"
         }
       }
     },
@@ -1375,13 +1375,13 @@
     "har-validator": {
       "version": "2.0.6",
       "from": "har-validator@>=2.0.6 <2.1.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/har-validator/-/har-validator-2.0.6.tgz",
+      "resolved": "https://registry.npmjs.org/npm/har-validator/-/har-validator-2.0.6.tgz",
       "dev": true,
       "dependencies": {
         "commander": {
           "version": "2.9.0",
           "from": "commander@>=2.9.0 <3.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/commander/-/commander-2.9.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/commander/-/commander-2.9.0.tgz",
           "dev": true
         }
       }
@@ -1389,12 +1389,12 @@
     "has-ansi": {
       "version": "2.0.0",
       "from": "has-ansi@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/has-ansi/-/has-ansi-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/has-ansi/-/has-ansi-2.0.0.tgz"
     },
     "has-flag": {
       "version": "1.0.0",
       "from": "has-flag@>=1.0.0 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/has-flag/-/has-flag-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/has-flag/-/has-flag-1.0.0.tgz",
       "dev": true
     },
     "has-gulplog": {
@@ -1405,25 +1405,25 @@
     "has-unicode": {
       "version": "2.0.1",
       "from": "has-unicode@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/has-unicode/-/has-unicode-2.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/has-unicode/-/has-unicode-2.0.1.tgz",
       "dev": true
     },
     "hawk": {
       "version": "3.1.3",
       "from": "hawk@>=3.1.3 <3.2.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/hawk/-/hawk-3.1.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/hawk/-/hawk-3.1.3.tgz",
       "dev": true
     },
     "hoek": {
       "version": "2.16.3",
       "from": "hoek@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/hoek/-/hoek-2.16.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/hoek/-/hoek-2.16.3.tgz",
       "dev": true
     },
     "hosted-git-info": {
       "version": "2.1.5",
       "from": "hosted-git-info@>=2.1.4 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.5.tgz"
     },
     "html-wiring": {
       "version": "1.2.0",
@@ -1433,17 +1433,17 @@
     "htmlparser2": {
       "version": "3.8.3",
       "from": "htmlparser2@>=3.8.1 <3.9.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/htmlparser2/-/htmlparser2-3.8.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/htmlparser2/-/htmlparser2-3.8.3.tgz",
       "dependencies": {
         "domutils": {
           "version": "1.5.1",
           "from": "domutils@>=1.5.0 <1.6.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/domutils/-/domutils-1.5.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/domutils/-/domutils-1.5.1.tgz"
         },
         "entities": {
           "version": "1.0.0",
           "from": "entities@>=1.0.0 <1.1.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/entities/-/entities-1.0.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/entities/-/entities-1.0.0.tgz"
         },
         "isarray": {
           "version": "0.0.1",
@@ -1453,14 +1453,14 @@
         "readable-stream": {
           "version": "1.1.14",
           "from": "readable-stream@>=1.1.0 <1.2.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/readable-stream/-/readable-stream-1.1.14.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/readable-stream/-/readable-stream-1.1.14.tgz"
         }
       }
     },
     "http-signature": {
       "version": "1.1.1",
       "from": "http-signature@>=1.1.0 <1.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/http-signature/-/http-signature-1.1.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/http-signature/-/http-signature-1.1.1.tgz",
       "dev": true
     },
     "humanize-string": {
@@ -1472,19 +1472,19 @@
     "ignore": {
       "version": "3.1.3",
       "from": "ignore@>=3.1.2 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ignore/-/ignore-3.1.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/ignore/-/ignore-3.1.3.tgz",
       "dev": true
     },
     "imurmurhash": {
       "version": "0.1.4",
       "from": "imurmurhash@>=0.1.4 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/imurmurhash/-/imurmurhash-0.1.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/imurmurhash/-/imurmurhash-0.1.4.tgz",
       "dev": true
     },
     "indent-string": {
       "version": "2.1.0",
       "from": "indent-string@>=2.1.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/indent-string/-/indent-string-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/indent-string/-/indent-string-2.1.0.tgz"
     },
     "inflight": {
       "version": "1.0.5",
@@ -1494,12 +1494,12 @@
     "inherits": {
       "version": "2.0.1",
       "from": "inherits@>=2.0.1 <2.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/inherits/-/inherits-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/inherits/-/inherits-2.0.1.tgz"
     },
     "ini": {
       "version": "1.3.4",
       "from": "ini@>=1.3.0 <1.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ini/-/ini-1.3.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/ini/-/ini-1.3.4.tgz"
     },
     "inquirer": {
       "version": "0.11.4",
@@ -1509,7 +1509,7 @@
         "run-async": {
           "version": "0.1.0",
           "from": "run-async@>=0.1.0 <0.2.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/run-async/-/run-async-0.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/run-async/-/run-async-0.1.0.tgz"
         }
       }
     },
@@ -1547,17 +1547,17 @@
     "is-arrayish": {
       "version": "0.2.1",
       "from": "is-arrayish@>=0.2.1 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-arrayish/-/is-arrayish-0.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-arrayish/-/is-arrayish-0.2.1.tgz"
     },
     "is-buffer": {
       "version": "1.1.3",
       "from": "is-buffer@>=1.0.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-buffer/-/is-buffer-1.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-buffer/-/is-buffer-1.1.3.tgz"
     },
     "is-builtin-module": {
       "version": "1.0.0",
       "from": "is-builtin-module@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-builtin-module/-/is-builtin-module-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-builtin-module/-/is-builtin-module-1.0.0.tgz"
     },
     "is-bzip2": {
       "version": "1.0.0",
@@ -1573,37 +1573,37 @@
     "is-dotfile": {
       "version": "1.0.2",
       "from": "is-dotfile@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-dotfile/-/is-dotfile-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-dotfile/-/is-dotfile-1.0.2.tgz"
     },
     "is-equal-shallow": {
       "version": "0.1.3",
       "from": "is-equal-shallow@>=0.1.3 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-equal-shallow/-/is-equal-shallow-0.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-equal-shallow/-/is-equal-shallow-0.1.3.tgz"
     },
     "is-extendable": {
       "version": "0.1.1",
       "from": "is-extendable@>=0.1.1 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-extendable/-/is-extendable-0.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-extendable/-/is-extendable-0.1.1.tgz"
     },
     "is-extglob": {
       "version": "1.0.0",
       "from": "is-extglob@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-extglob/-/is-extglob-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-extglob/-/is-extglob-1.0.0.tgz"
     },
     "is-finite": {
       "version": "1.0.1",
       "from": "is-finite@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-finite/-/is-finite-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-finite/-/is-finite-1.0.1.tgz"
     },
     "is-fullwidth-code-point": {
       "version": "1.0.0",
       "from": "is-fullwidth-code-point@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz"
     },
     "is-glob": {
       "version": "2.0.1",
       "from": "is-glob@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-glob/-/is-glob-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-glob/-/is-glob-2.0.1.tgz"
     },
     "is-gzip": {
       "version": "1.0.0",
@@ -1624,13 +1624,13 @@
     "is-npm": {
       "version": "1.0.0",
       "from": "is-npm@>=1.0.0 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/is-npm/-/is-npm-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/is-npm/-/is-npm-1.0.0.tgz",
       "dev": true
     },
     "is-number": {
       "version": "2.1.0",
       "from": "is-number@>=2.1.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-number/-/is-number-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-number/-/is-number-2.1.0.tgz"
     },
     "is-obj": {
       "version": "1.0.1",
@@ -1640,35 +1640,35 @@
     "is-path-cwd": {
       "version": "1.0.0",
       "from": "is-path-cwd@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-path-cwd/-/is-path-cwd-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-path-cwd/-/is-path-cwd-1.0.0.tgz",
       "dev": true
     },
     "is-path-in-cwd": {
       "version": "1.0.0",
       "from": "is-path-in-cwd@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-path-in-cwd/-/is-path-in-cwd-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-path-in-cwd/-/is-path-in-cwd-1.0.0.tgz",
       "dev": true
     },
     "is-path-inside": {
       "version": "1.0.0",
       "from": "is-path-inside@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-path-inside/-/is-path-inside-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-path-inside/-/is-path-inside-1.0.0.tgz",
       "dev": true
     },
     "is-plain-obj": {
       "version": "1.1.0",
       "from": "is-plain-obj@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
     },
     "is-posix-bracket": {
       "version": "0.1.1",
       "from": "is-posix-bracket@>=0.1.0 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz"
     },
     "is-primitive": {
       "version": "2.0.0",
       "from": "is-primitive@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-primitive/-/is-primitive-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-primitive/-/is-primitive-2.0.0.tgz"
     },
     "is-promise": {
       "version": "2.1.0",
@@ -1700,7 +1700,7 @@
     "is-resolvable": {
       "version": "1.0.0",
       "from": "is-resolvable@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-resolvable/-/is-resolvable-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-resolvable/-/is-resolvable-1.0.0.tgz",
       "dev": true
     },
     "is-retry-allowed": {
@@ -1717,7 +1717,7 @@
     "is-stream": {
       "version": "1.1.0",
       "from": "is-stream@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-stream/-/is-stream-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-stream/-/is-stream-1.1.0.tgz"
     },
     "is-supported-regexp-flag": {
       "version": "1.0.0",
@@ -1733,7 +1733,7 @@
     "is-typedarray": {
       "version": "1.0.0",
       "from": "is-typedarray@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/is-typedarray/-/is-typedarray-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/is-typedarray/-/is-typedarray-1.0.0.tgz",
       "dev": true
     },
     "is-url": {
@@ -1744,7 +1744,7 @@
     "is-utf8": {
       "version": "0.2.1",
       "from": "is-utf8@>=0.2.0 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-utf8/-/is-utf8-0.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/is-utf8/-/is-utf8-0.2.1.tgz"
     },
     "is-valid-glob": {
       "version": "0.3.0",
@@ -1759,22 +1759,22 @@
     "isarray": {
       "version": "1.0.0",
       "from": "isarray@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isarray/-/isarray-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/isarray/-/isarray-1.0.0.tgz"
     },
     "isexe": {
       "version": "1.1.2",
       "from": "isexe@>=1.1.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isexe/-/isexe-1.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/isexe/-/isexe-1.1.2.tgz"
     },
     "isobject": {
       "version": "2.1.0",
       "from": "isobject@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isobject/-/isobject-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/isobject/-/isobject-2.1.0.tgz"
     },
     "isstream": {
       "version": "0.1.2",
       "from": "isstream@>=0.1.2 <0.2.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/isstream/-/isstream-0.1.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/isstream/-/isstream-0.1.2.tgz",
       "dev": true
     },
     "istextorbinary": {
@@ -1805,27 +1805,27 @@
     "jodid25519": {
       "version": "1.0.2",
       "from": "jodid25519@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/jodid25519/-/jodid25519-1.0.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/jodid25519/-/jodid25519-1.0.2.tgz",
       "dev": true,
       "optional": true
     },
     "js-yaml": {
       "version": "3.6.1",
       "from": "js-yaml@>=3.5.1 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/js-yaml/-/js-yaml-3.6.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/js-yaml/-/js-yaml-3.6.1.tgz",
       "dev": true
     },
     "jsbn": {
       "version": "0.1.0",
       "from": "jsbn@>=0.1.0 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/jsbn/-/jsbn-0.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/jsbn/-/jsbn-0.1.0.tgz",
       "dev": true,
       "optional": true
     },
     "json-schema": {
       "version": "0.2.3",
       "from": "json-schema@0.2.3",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/json-schema/-/json-schema-0.2.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/json-schema/-/json-schema-0.2.3.tgz",
       "dev": true
     },
     "json-stable-stringify": {
@@ -1836,7 +1836,7 @@
     "json-stringify-safe": {
       "version": "5.0.1",
       "from": "json-stringify-safe@>=5.0.1 <5.1.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz",
       "dev": true
     },
     "jsonify": {
@@ -1853,18 +1853,18 @@
     "jsprim": {
       "version": "1.3.1",
       "from": "jsprim@>=1.2.2 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/jsprim/-/jsprim-1.3.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/jsprim/-/jsprim-1.3.1.tgz",
       "dev": true
     },
     "kind-of": {
       "version": "3.0.3",
       "from": "kind-of@>=3.0.2 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/kind-of/-/kind-of-3.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/kind-of/-/kind-of-3.0.3.tgz"
     },
     "latest-version": {
       "version": "2.0.0",
       "from": "latest-version@>=2.0.0 <3.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/latest-version/-/latest-version-2.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/latest-version/-/latest-version-2.0.0.tgz",
       "dev": true
     },
     "lazystream": {
@@ -1875,17 +1875,17 @@
     "levn": {
       "version": "0.3.0",
       "from": "levn@>=0.3.0 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/levn/-/levn-0.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/levn/-/levn-0.3.0.tgz"
     },
     "load-json-file": {
       "version": "1.1.0",
       "from": "load-json-file@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/load-json-file/-/load-json-file-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/load-json-file/-/load-json-file-1.1.0.tgz"
     },
     "lodash": {
       "version": "3.10.1",
       "from": "lodash@>=3.5.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-3.10.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-3.10.1.tgz"
     },
     "lodash._basecopy": {
       "version": "3.0.1",
@@ -1930,7 +1930,7 @@
     "lodash._root": {
       "version": "3.0.1",
       "from": "lodash._root@>=3.0.0 <3.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash._root/-/lodash._root-3.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/lodash._root/-/lodash._root-3.0.1.tgz"
     },
     "lodash.debounce": {
       "version": "3.1.1",
@@ -1961,24 +1961,24 @@
     "lodash.keys": {
       "version": "4.0.7",
       "from": "lodash.keys@>=4.0.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.keys/-/lodash.keys-4.0.7.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/lodash.keys/-/lodash.keys-4.0.7.tgz"
     },
     "lodash.pad": {
       "version": "4.5.1",
       "from": "lodash.pad@>=4.1.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/lodash.pad/-/lodash.pad-4.5.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/lodash.pad/-/lodash.pad-4.5.1.tgz",
       "dev": true
     },
     "lodash.padend": {
       "version": "4.6.1",
       "from": "lodash.padend@>=4.1.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/lodash.padend/-/lodash.padend-4.6.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/lodash.padend/-/lodash.padend-4.6.1.tgz",
       "dev": true
     },
     "lodash.padstart": {
       "version": "4.6.1",
       "from": "lodash.padstart@>=4.1.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/lodash.padstart/-/lodash.padstart-4.6.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/lodash.padstart/-/lodash.padstart-4.6.1.tgz",
       "dev": true
     },
     "lodash.restparam": {
@@ -2016,7 +2016,7 @@
     "loud-rejection": {
       "version": "1.5.0",
       "from": "loud-rejection@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/loud-rejection/-/loud-rejection-1.5.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/loud-rejection/-/loud-rejection-1.5.0.tgz"
     },
     "lowercase-keys": {
       "version": "1.0.0",
@@ -2026,12 +2026,12 @@
     "lru-cache": {
       "version": "4.0.1",
       "from": "lru-cache@>=4.0.0 <5.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lru-cache/-/lru-cache-4.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/lru-cache/-/lru-cache-4.0.1.tgz"
     },
     "map-obj": {
       "version": "1.0.1",
       "from": "map-obj@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/map-obj/-/map-obj-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/map-obj/-/map-obj-1.0.1.tgz"
     },
     "mem-fs": {
       "version": "1.1.3",
@@ -2046,7 +2046,7 @@
         "glob": {
           "version": "7.0.5",
           "from": "glob@>=7.0.3 <8.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-7.0.5.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-7.0.5.tgz"
         },
         "globby": {
           "version": "4.1.0",
@@ -2056,7 +2056,7 @@
             "glob": {
               "version": "6.0.4",
               "from": "glob@>=6.0.1 <7.0.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-6.0.4.tgz"
+              "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-6.0.4.tgz"
             }
           }
         },
@@ -2070,17 +2070,17 @@
     "meow": {
       "version": "3.7.0",
       "from": "meow@>=3.3.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/meow/-/meow-3.7.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/meow/-/meow-3.7.0.tgz",
       "dependencies": {
         "minimist": {
           "version": "1.2.0",
           "from": "minimist@>=1.1.3 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-1.2.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-1.2.0.tgz"
         },
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
         }
       }
     },
@@ -2092,7 +2092,7 @@
     "micromatch": {
       "version": "2.3.10",
       "from": "micromatch@>=2.3.7 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/micromatch/-/micromatch-2.3.10.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/micromatch/-/micromatch-2.3.10.tgz"
     },
     "mime-db": {
       "version": "1.24.0",
@@ -2114,12 +2114,12 @@
     "minimist": {
       "version": "0.0.8",
       "from": "minimist@0.0.8",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-0.0.8.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-0.0.8.tgz"
     },
     "mkdirp": {
       "version": "0.5.1",
       "from": "mkdirp@0.5.1",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/mkdirp/-/mkdirp-0.5.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/mkdirp/-/mkdirp-0.5.1.tgz"
     },
     "mocha": {
       "version": "2.5.3",
@@ -2136,19 +2136,19 @@
         "glob": {
           "version": "3.2.11",
           "from": "glob@3.2.11",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-3.2.11.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-3.2.11.tgz",
           "dev": true
         },
         "lru-cache": {
           "version": "2.7.3",
           "from": "lru-cache@>=2.0.0 <3.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lru-cache/-/lru-cache-2.7.3.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/lru-cache/-/lru-cache-2.7.3.tgz",
           "dev": true
         },
         "minimatch": {
           "version": "0.3.0",
           "from": "minimatch@>=0.3.0 <0.4.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimatch/-/minimatch-0.3.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/minimatch/-/minimatch-0.3.0.tgz",
           "dev": true
         },
         "supports-color": {
@@ -2167,7 +2167,7 @@
     "multimatch": {
       "version": "2.1.0",
       "from": "multimatch@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/multimatch/-/multimatch-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/multimatch/-/multimatch-2.1.0.tgz"
     },
     "multipipe": {
       "version": "0.1.2",
@@ -2187,14 +2187,14 @@
         "readable-stream": {
           "version": "1.1.14",
           "from": "readable-stream@>=1.1.9 <1.2.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/readable-stream/-/readable-stream-1.1.14.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/readable-stream/-/readable-stream-1.1.14.tgz"
         }
       }
     },
     "mute-stream": {
       "version": "0.0.5",
       "from": "mute-stream@0.0.5",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/mute-stream/-/mute-stream-0.0.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/mute-stream/-/mute-stream-0.0.5.tgz"
     },
     "node-status-codes": {
       "version": "1.0.0",
@@ -2204,23 +2204,23 @@
     "node-uuid": {
       "version": "1.4.7",
       "from": "node-uuid@>=1.4.7 <1.5.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/node-uuid/-/node-uuid-1.4.7.tgz",
+      "resolved": "https://registry.npmjs.org/npm/node-uuid/-/node-uuid-1.4.7.tgz",
       "dev": true
     },
     "nopt": {
       "version": "3.0.6",
       "from": "nopt@>=3.0.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/nopt/-/nopt-3.0.6.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/nopt/-/nopt-3.0.6.tgz"
     },
     "normalize-package-data": {
       "version": "2.3.5",
       "from": "normalize-package-data@>=2.3.4 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/normalize-package-data/-/normalize-package-data-2.3.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/normalize-package-data/-/normalize-package-data-2.3.5.tgz"
     },
     "normalize-path": {
       "version": "2.0.1",
       "from": "normalize-path@>=2.0.1 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/normalize-path/-/normalize-path-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/normalize-path/-/normalize-path-2.0.1.tgz"
     },
     "npm-keyword": {
       "version": "4.2.0",
@@ -2239,13 +2239,13 @@
     "npmconf": {
       "version": "2.1.2",
       "from": "npmconf@>=2.1.1 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/npmconf/-/npmconf-2.1.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/npmconf/-/npmconf-2.1.2.tgz",
       "dev": true,
       "dependencies": {
         "semver": {
           "version": "4.3.6",
           "from": "semver@>=2.0.0 <3.0.0||>=3.0.0 <4.0.0||>=4.0.0 <5.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/semver/-/semver-4.3.6.tgz",
+          "resolved": "https://registry.npmjs.org/npm/semver/-/semver-4.3.6.tgz",
           "dev": true
         }
       }
@@ -2253,13 +2253,13 @@
     "npmlog": {
       "version": "2.0.4",
       "from": "npmlog@>=2.0.3 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/npmlog/-/npmlog-2.0.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm/npmlog/-/npmlog-2.0.4.tgz",
       "dev": true
     },
     "nsp": {
       "version": "2.4.0",
       "from": "nsp@2.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/nsp/-/nsp-2.4.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/nsp/-/nsp-2.4.0.tgz",
       "dev": true,
       "dependencies": {
         "chalk": {
@@ -2333,19 +2333,19 @@
         "https-proxy-agent": {
           "version": "1.0.0",
           "from": "https-proxy-agent@1.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/https-proxy-agent/-/https-proxy-agent-1.0.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/https-proxy-agent/-/https-proxy-agent-1.0.0.tgz",
           "dev": true,
           "dependencies": {
             "agent-base": {
               "version": "2.0.1",
               "from": "agent-base@2.0.1",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/agent-base/-/agent-base-2.0.1.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/agent-base/-/agent-base-2.0.1.tgz",
               "dev": true,
               "dependencies": {
                 "semver": {
                   "version": "5.0.3",
                   "from": "semver@5.0.3",
-                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/semver/-/semver-5.0.3.tgz",
+                  "resolved": "https://registry.npmjs.org/npm-proxy/semver/-/semver-5.0.3.tgz",
                   "dev": true
                 }
               }
@@ -2375,31 +2375,31 @@
         "joi": {
           "version": "6.10.1",
           "from": "joi@6.10.1",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/joi/-/joi-6.10.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/joi/-/joi-6.10.1.tgz",
           "dev": true,
           "dependencies": {
             "hoek": {
               "version": "2.16.3",
               "from": "hoek@2.16.3",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hoek/-/hoek-2.16.3.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/hoek/-/hoek-2.16.3.tgz",
               "dev": true
             },
             "isemail": {
               "version": "1.2.0",
               "from": "isemail@1.2.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isemail/-/isemail-1.2.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/isemail/-/isemail-1.2.0.tgz",
               "dev": true
             },
             "moment": {
               "version": "2.12.0",
               "from": "moment@2.12.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/moment/-/moment-2.12.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/moment/-/moment-2.12.0.tgz",
               "dev": true
             },
             "topo": {
               "version": "1.1.0",
               "from": "topo@1.1.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/topo/-/topo-1.1.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/topo/-/topo-1.1.0.tgz",
               "dev": true
             }
           }
@@ -2407,25 +2407,25 @@
         "nodesecurity-npm-utils": {
           "version": "4.0.1",
           "from": "nodesecurity-npm-utils@4.0.1",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/nodesecurity-npm-utils/-/nodesecurity-npm-utils-4.0.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/nodesecurity-npm-utils/-/nodesecurity-npm-utils-4.0.1.tgz",
           "dev": true,
           "dependencies": {
             "silent-npm-registry-client": {
               "version": "2.0.0",
               "from": "silent-npm-registry-client@2.0.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/silent-npm-registry-client/-/silent-npm-registry-client-2.0.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/silent-npm-registry-client/-/silent-npm-registry-client-2.0.0.tgz",
               "dev": true,
               "dependencies": {
                 "npm-registry-client": {
                   "version": "7.1.0",
                   "from": "npm-registry-client@7.1.0",
-                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/npm-registry-client/-/npm-registry-client-7.1.0.tgz",
+                  "resolved": "https://registry.npmjs.org/npm-proxy/npm-registry-client/-/npm-registry-client-7.1.0.tgz",
                   "dev": true,
                   "dependencies": {
                     "chownr": {
                       "version": "1.0.1",
                       "from": "chownr@1.0.1",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/chownr/-/chownr-1.0.1.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/chownr/-/chownr-1.0.1.tgz",
                       "dev": true
                     },
                     "concat-stream": {
@@ -2461,7 +2461,7 @@
                             "process-nextick-args": {
                               "version": "1.0.6",
                               "from": "process-nextick-args@1.0.6",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
                               "dev": true
                             },
                             "string_decoder": {
@@ -2489,7 +2489,7 @@
                     "graceful-fs": {
                       "version": "4.1.3",
                       "from": "graceful-fs@4.1.3",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/graceful-fs/-/graceful-fs-4.1.3.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/graceful-fs/-/graceful-fs-4.1.3.tgz",
                       "dev": true
                     },
                     "mkdirp": {
@@ -2515,7 +2515,7 @@
                         "hosted-git-info": {
                           "version": "2.1.4",
                           "from": "hosted-git-info@2.1.4",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.4.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.4.tgz",
                           "dev": true
                         },
                         "is-builtin-module": {
@@ -2547,7 +2547,7 @@
                                 "spdx-license-ids": {
                                   "version": "1.2.0",
                                   "from": "spdx-license-ids@1.2.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.0.tgz",
                                   "dev": true
                                 }
                               }
@@ -2567,7 +2567,7 @@
                                 "spdx-license-ids": {
                                   "version": "1.2.0",
                                   "from": "spdx-license-ids@1.2.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.0.tgz",
                                   "dev": true
                                 }
                               }
@@ -2579,13 +2579,13 @@
                     "npm-package-arg": {
                       "version": "4.1.0",
                       "from": "npm-package-arg@4.1.0",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/npm-package-arg/-/npm-package-arg-4.1.0.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/npm-package-arg/-/npm-package-arg-4.1.0.tgz",
                       "dev": true,
                       "dependencies": {
                         "hosted-git-info": {
                           "version": "2.1.4",
                           "from": "hosted-git-info@2.1.4",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.4.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/hosted-git-info/-/hosted-git-info-2.1.4.tgz",
                           "dev": true
                         }
                       }
@@ -2593,27 +2593,27 @@
                     "npmlog": {
                       "version": "2.0.3",
                       "from": "npmlog@2.0.3",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/npmlog/-/npmlog-2.0.3.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/npmlog/-/npmlog-2.0.3.tgz",
                       "dev": true,
                       "optional": true,
                       "dependencies": {
                         "ansi": {
                           "version": "0.3.1",
                           "from": "ansi@0.3.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ansi/-/ansi-0.3.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/ansi/-/ansi-0.3.1.tgz",
                           "dev": true
                         },
                         "are-we-there-yet": {
                           "version": "1.1.2",
                           "from": "are-we-there-yet@1.1.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/are-we-there-yet/-/are-we-there-yet-1.1.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/are-we-there-yet/-/are-we-there-yet-1.1.2.tgz",
                           "dev": true,
                           "optional": true,
                           "dependencies": {
                             "delegates": {
                               "version": "1.0.0",
                               "from": "delegates@1.0.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/delegates/-/delegates-1.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/delegates/-/delegates-1.0.0.tgz",
                               "dev": true,
                               "optional": true
                             },
@@ -2648,7 +2648,7 @@
                                 "process-nextick-args": {
                                   "version": "1.0.6",
                                   "from": "process-nextick-args@1.0.6",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
@@ -2673,35 +2673,35 @@
                         "gauge": {
                           "version": "1.2.7",
                           "from": "gauge@1.2.7",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/gauge/-/gauge-1.2.7.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/gauge/-/gauge-1.2.7.tgz",
                           "dev": true,
                           "optional": true,
                           "dependencies": {
                             "has-unicode": {
                               "version": "2.0.0",
                               "from": "has-unicode@2.0.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/has-unicode/-/has-unicode-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/has-unicode/-/has-unicode-2.0.0.tgz",
                               "dev": true,
                               "optional": true
                             },
                             "lodash.pad": {
                               "version": "4.1.0",
                               "from": "lodash.pad@4.1.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.pad/-/lodash.pad-4.1.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/lodash.pad/-/lodash.pad-4.1.0.tgz",
                               "dev": true,
                               "optional": true,
                               "dependencies": {
                                 "lodash.repeat": {
                                   "version": "4.0.0",
                                   "from": "lodash.repeat@4.0.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "lodash.tostring": {
                                   "version": "4.1.2",
                                   "from": "lodash.tostring@4.1.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
                                   "dev": true
                                 }
                               }
@@ -2709,21 +2709,21 @@
                             "lodash.padend": {
                               "version": "4.2.0",
                               "from": "lodash.padend@4.2.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.padend/-/lodash.padend-4.2.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/lodash.padend/-/lodash.padend-4.2.0.tgz",
                               "dev": true,
                               "optional": true,
                               "dependencies": {
                                 "lodash.repeat": {
                                   "version": "4.0.0",
                                   "from": "lodash.repeat@4.0.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "lodash.tostring": {
                                   "version": "4.1.2",
                                   "from": "lodash.tostring@4.1.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
                                   "dev": true
                                 }
                               }
@@ -2731,21 +2731,21 @@
                             "lodash.padstart": {
                               "version": "4.2.0",
                               "from": "lodash.padstart@4.2.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.padstart/-/lodash.padstart-4.2.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/lodash.padstart/-/lodash.padstart-4.2.0.tgz",
                               "dev": true,
                               "optional": true,
                               "dependencies": {
                                 "lodash.repeat": {
                                   "version": "4.0.0",
                                   "from": "lodash.repeat@4.0.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.repeat/-/lodash.repeat-4.0.0.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "lodash.tostring": {
                                   "version": "4.1.2",
                                   "from": "lodash.tostring@4.1.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/lodash.tostring/-/lodash.tostring-4.1.2.tgz",
                                   "dev": true
                                 }
                               }
@@ -2763,7 +2763,7 @@
                         "wrappy": {
                           "version": "1.0.1",
                           "from": "wrappy@1.0.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wrappy/-/wrappy-1.0.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/wrappy/-/wrappy-1.0.1.tgz",
                           "dev": true
                         }
                       }
@@ -2771,19 +2771,19 @@
                     "request": {
                       "version": "2.69.0",
                       "from": "request@2.69.0",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/request/-/request-2.69.0.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/request/-/request-2.69.0.tgz",
                       "dev": true,
                       "dependencies": {
                         "aws-sign2": {
                           "version": "0.6.0",
                           "from": "aws-sign2@0.6.0",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/aws-sign2/-/aws-sign2-0.6.0.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/aws-sign2/-/aws-sign2-0.6.0.tgz",
                           "dev": true
                         },
                         "aws4": {
                           "version": "1.3.2",
                           "from": "aws4@1.3.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/aws4/-/aws4-1.3.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/aws4/-/aws4-1.3.2.tgz",
                           "dev": true,
                           "dependencies": {
                             "lru-cache": {
@@ -2811,7 +2811,7 @@
                         "bl": {
                           "version": "1.0.3",
                           "from": "bl@1.0.3",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/bl/-/bl-1.0.3.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/bl/-/bl-1.0.3.tgz",
                           "dev": true,
                           "dependencies": {
                             "readable-stream": {
@@ -2841,7 +2841,7 @@
                                 "process-nextick-args": {
                                   "version": "1.0.6",
                                   "from": "process-nextick-args@1.0.6",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.6.tgz",
                                   "dev": true
                                 },
                                 "string_decoder": {
@@ -2863,19 +2863,19 @@
                         "caseless": {
                           "version": "0.11.0",
                           "from": "caseless@0.11.0",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/caseless/-/caseless-0.11.0.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/caseless/-/caseless-0.11.0.tgz",
                           "dev": true
                         },
                         "combined-stream": {
                           "version": "1.0.5",
                           "from": "combined-stream@1.0.5",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/combined-stream/-/combined-stream-1.0.5.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/combined-stream/-/combined-stream-1.0.5.tgz",
                           "dev": true,
                           "dependencies": {
                             "delayed-stream": {
                               "version": "1.0.0",
                               "from": "delayed-stream@1.0.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/delayed-stream/-/delayed-stream-1.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/delayed-stream/-/delayed-stream-1.0.0.tgz",
                               "dev": true
                             }
                           }
@@ -2889,13 +2889,13 @@
                         "forever-agent": {
                           "version": "0.6.1",
                           "from": "forever-agent@0.6.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/forever-agent/-/forever-agent-0.6.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/forever-agent/-/forever-agent-0.6.1.tgz",
                           "dev": true
                         },
                         "form-data": {
                           "version": "1.0.0-rc4",
                           "from": "form-data@1.0.0-rc4",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/form-data/-/form-data-1.0.0-rc4.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/form-data/-/form-data-1.0.0-rc4.tgz",
                           "dev": true,
                           "dependencies": {
                             "async": {
@@ -2909,13 +2909,13 @@
                         "har-validator": {
                           "version": "2.0.6",
                           "from": "har-validator@2.0.6",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/har-validator/-/har-validator-2.0.6.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/har-validator/-/har-validator-2.0.6.tgz",
                           "dev": true,
                           "dependencies": {
                             "commander": {
                               "version": "2.9.0",
                               "from": "commander@2.9.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/commander/-/commander-2.9.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/commander/-/commander-2.9.0.tgz",
                               "dev": true,
                               "dependencies": {
                                 "graceful-readlink": {
@@ -2929,25 +2929,25 @@
                             "is-my-json-valid": {
                               "version": "2.13.1",
                               "from": "is-my-json-valid@2.13.1",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-my-json-valid/-/is-my-json-valid-2.13.1.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/is-my-json-valid/-/is-my-json-valid-2.13.1.tgz",
                               "dev": true,
                               "dependencies": {
                                 "generate-function": {
                                   "version": "2.0.0",
                                   "from": "generate-function@2.0.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/generate-function/-/generate-function-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/generate-function/-/generate-function-2.0.0.tgz",
                                   "dev": true
                                 },
                                 "generate-object-property": {
                                   "version": "1.2.0",
                                   "from": "generate-object-property@1.2.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/generate-object-property/-/generate-object-property-1.2.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/generate-object-property/-/generate-object-property-1.2.0.tgz",
                                   "dev": true,
                                   "dependencies": {
                                     "is-property": {
                                       "version": "1.0.2",
                                       "from": "is-property@1.0.2",
-                                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-property/-/is-property-1.0.2.tgz",
+                                      "resolved": "https://registry.npmjs.org/npm-proxy/is-property/-/is-property-1.0.2.tgz",
                                       "dev": true
                                     }
                                   }
@@ -2955,7 +2955,7 @@
                                 "jsonpointer": {
                                   "version": "2.0.0",
                                   "from": "jsonpointer@2.0.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/jsonpointer/-/jsonpointer-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/jsonpointer/-/jsonpointer-2.0.0.tgz",
                                   "dev": true
                                 }
                               }
@@ -2963,7 +2963,7 @@
                             "pinkie-promise": {
                               "version": "2.0.0",
                               "from": "pinkie-promise@2.0.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
                               "dev": true,
                               "dependencies": {
                                 "pinkie": {
@@ -2979,7 +2979,7 @@
                         "hawk": {
                           "version": "3.1.3",
                           "from": "hawk@3.1.3",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hawk/-/hawk-3.1.3.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/hawk/-/hawk-3.1.3.tgz",
                           "dev": true,
                           "dependencies": {
                             "boom": {
@@ -2991,7 +2991,7 @@
                             "cryptiles": {
                               "version": "2.0.5",
                               "from": "cryptiles@2.0.5",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cryptiles/-/cryptiles-2.0.5.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/cryptiles/-/cryptiles-2.0.5.tgz",
                               "dev": true
                             },
                             "hoek": {
@@ -3003,7 +3003,7 @@
                             "sntp": {
                               "version": "1.0.9",
                               "from": "sntp@1.0.9",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/sntp/-/sntp-1.0.9.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/sntp/-/sntp-1.0.9.tgz",
                               "dev": true
                             }
                           }
@@ -3011,37 +3011,37 @@
                         "http-signature": {
                           "version": "1.1.1",
                           "from": "http-signature@1.1.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/http-signature/-/http-signature-1.1.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/http-signature/-/http-signature-1.1.1.tgz",
                           "dev": true,
                           "dependencies": {
                             "assert-plus": {
                               "version": "0.2.0",
                               "from": "assert-plus@0.2.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/assert-plus/-/assert-plus-0.2.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/assert-plus/-/assert-plus-0.2.0.tgz",
                               "dev": true
                             },
                             "jsprim": {
                               "version": "1.2.2",
                               "from": "jsprim@1.2.2",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/jsprim/-/jsprim-1.2.2.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/jsprim/-/jsprim-1.2.2.tgz",
                               "dev": true,
                               "dependencies": {
                                 "extsprintf": {
                                   "version": "1.0.2",
                                   "from": "extsprintf@1.0.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/extsprintf/-/extsprintf-1.0.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/extsprintf/-/extsprintf-1.0.2.tgz",
                                   "dev": true
                                 },
                                 "json-schema": {
                                   "version": "0.2.2",
                                   "from": "json-schema@0.2.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/json-schema/-/json-schema-0.2.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/json-schema/-/json-schema-0.2.2.tgz",
                                   "dev": true
                                 },
                                 "verror": {
                                   "version": "1.3.6",
                                   "from": "verror@1.3.6",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/verror/-/verror-1.3.6.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/verror/-/verror-1.3.6.tgz",
                                   "dev": true
                                 }
                               }
@@ -3049,25 +3049,25 @@
                             "sshpk": {
                               "version": "1.7.4",
                               "from": "sshpk@1.7.4",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/sshpk/-/sshpk-1.7.4.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/sshpk/-/sshpk-1.7.4.tgz",
                               "dev": true,
                               "dependencies": {
                                 "asn1": {
                                   "version": "0.2.3",
                                   "from": "asn1@0.2.3",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/asn1/-/asn1-0.2.3.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/asn1/-/asn1-0.2.3.tgz",
                                   "dev": true
                                 },
                                 "dashdash": {
                                   "version": "1.13.0",
                                   "from": "dashdash@1.13.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/dashdash/-/dashdash-1.13.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/dashdash/-/dashdash-1.13.0.tgz",
                                   "dev": true,
                                   "dependencies": {
                                     "assert-plus": {
                                       "version": "1.0.0",
                                       "from": "assert-plus@1.0.0",
-                                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/assert-plus/-/assert-plus-1.0.0.tgz",
+                                      "resolved": "https://registry.npmjs.org/npm-proxy/assert-plus/-/assert-plus-1.0.0.tgz",
                                       "dev": true
                                     }
                                   }
@@ -3075,28 +3075,28 @@
                                 "ecc-jsbn": {
                                   "version": "0.1.1",
                                   "from": "ecc-jsbn@0.1.1",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "jodid25519": {
                                   "version": "1.0.2",
                                   "from": "jodid25519@1.0.2",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/jodid25519/-/jodid25519-1.0.2.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/jodid25519/-/jodid25519-1.0.2.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "jsbn": {
                                   "version": "0.1.0",
                                   "from": "jsbn@0.1.0",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/jsbn/-/jsbn-0.1.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/jsbn/-/jsbn-0.1.0.tgz",
                                   "dev": true,
                                   "optional": true
                                 },
                                 "tweetnacl": {
                                   "version": "0.14.3",
                                   "from": "tweetnacl@0.14.3",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tweetnacl/-/tweetnacl-0.14.3.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/tweetnacl/-/tweetnacl-0.14.3.tgz",
                                   "dev": true,
                                   "optional": true
                                 }
@@ -3107,31 +3107,31 @@
                         "is-typedarray": {
                           "version": "1.0.0",
                           "from": "is-typedarray@1.0.0",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/is-typedarray/-/is-typedarray-1.0.0.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/is-typedarray/-/is-typedarray-1.0.0.tgz",
                           "dev": true
                         },
                         "isstream": {
                           "version": "0.1.2",
                           "from": "isstream@0.1.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/isstream/-/isstream-0.1.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/isstream/-/isstream-0.1.2.tgz",
                           "dev": true
                         },
                         "json-stringify-safe": {
                           "version": "5.0.1",
                           "from": "json-stringify-safe@5.0.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz",
                           "dev": true
                         },
                         "mime-types": {
                           "version": "2.1.10",
                           "from": "mime-types@2.1.10",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/mime-types/-/mime-types-2.1.10.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/mime-types/-/mime-types-2.1.10.tgz",
                           "dev": true,
                           "dependencies": {
                             "mime-db": {
                               "version": "1.22.0",
                               "from": "mime-db@1.22.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/mime-db/-/mime-db-1.22.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/mime-db/-/mime-db-1.22.0.tgz",
                               "dev": true
                             }
                           }
@@ -3139,37 +3139,37 @@
                         "node-uuid": {
                           "version": "1.4.7",
                           "from": "node-uuid@1.4.7",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/node-uuid/-/node-uuid-1.4.7.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/node-uuid/-/node-uuid-1.4.7.tgz",
                           "dev": true
                         },
                         "oauth-sign": {
                           "version": "0.8.1",
                           "from": "oauth-sign@0.8.1",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/oauth-sign/-/oauth-sign-0.8.1.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/oauth-sign/-/oauth-sign-0.8.1.tgz",
                           "dev": true
                         },
                         "qs": {
                           "version": "6.0.2",
                           "from": "qs@6.0.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/qs/-/qs-6.0.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/qs/-/qs-6.0.2.tgz",
                           "dev": true
                         },
                         "stringstream": {
                           "version": "0.0.5",
                           "from": "stringstream@0.0.5",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/stringstream/-/stringstream-0.0.5.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/stringstream/-/stringstream-0.0.5.tgz",
                           "dev": true
                         },
                         "tough-cookie": {
                           "version": "2.2.2",
                           "from": "tough-cookie@2.2.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tough-cookie/-/tough-cookie-2.2.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/tough-cookie/-/tough-cookie-2.2.2.tgz",
                           "dev": true
                         },
                         "tunnel-agent": {
                           "version": "0.4.2",
                           "from": "tunnel-agent@0.4.2",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tunnel-agent/-/tunnel-agent-0.4.2.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/tunnel-agent/-/tunnel-agent-0.4.2.tgz",
                           "dev": true
                         }
                       }
@@ -3177,7 +3177,7 @@
                     "retry": {
                       "version": "0.8.0",
                       "from": "retry@0.8.0",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/retry/-/retry-0.8.0.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/retry/-/retry-0.8.0.tgz",
                       "dev": true
                     },
                     "rimraf": {
@@ -3189,19 +3189,19 @@
                         "glob": {
                           "version": "7.0.3",
                           "from": "glob@7.0.3",
-                          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-7.0.3.tgz",
+                          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-7.0.3.tgz",
                           "dev": true,
                           "dependencies": {
                             "inflight": {
                               "version": "1.0.4",
                               "from": "inflight@1.0.4",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/inflight/-/inflight-1.0.4.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/inflight/-/inflight-1.0.4.tgz",
                               "dev": true,
                               "dependencies": {
                                 "wrappy": {
                                   "version": "1.0.1",
                                   "from": "wrappy@1.0.1",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wrappy/-/wrappy-1.0.1.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/wrappy/-/wrappy-1.0.1.tgz",
                                   "dev": true
                                 }
                               }
@@ -3215,19 +3215,19 @@
                             "minimatch": {
                               "version": "3.0.0",
                               "from": "minimatch@3.0.0",
-                              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimatch/-/minimatch-3.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/npm-proxy/minimatch/-/minimatch-3.0.0.tgz",
                               "dev": true,
                               "dependencies": {
                                 "brace-expansion": {
                                   "version": "1.1.3",
                                   "from": "brace-expansion@1.1.3",
-                                  "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/brace-expansion/-/brace-expansion-1.1.3.tgz",
+                                  "resolved": "https://registry.npmjs.org/npm-proxy/brace-expansion/-/brace-expansion-1.1.3.tgz",
                                   "dev": true,
                                   "dependencies": {
                                     "balanced-match": {
                                       "version": "0.3.0",
                                       "from": "balanced-match@0.3.0",
-                                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/balanced-match/-/balanced-match-0.3.0.tgz",
+                                      "resolved": "https://registry.npmjs.org/npm-proxy/balanced-match/-/balanced-match-0.3.0.tgz",
                                       "dev": true
                                     },
                                     "concat-map": {
@@ -3247,7 +3247,7 @@
                     "slide": {
                       "version": "1.1.6",
                       "from": "slide@1.1.6",
-                      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/slide/-/slide-1.1.6.tgz",
+                      "resolved": "https://registry.npmjs.org/npm-proxy/slide/-/slide-1.1.6.tgz",
                       "dev": true
                     }
                   }
@@ -3289,7 +3289,7 @@
             "minimist": {
               "version": "1.2.0",
               "from": "minimist@1.2.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-1.2.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-1.2.0.tgz",
               "dev": true
             },
             "strip-json-comments": {
@@ -3303,19 +3303,19 @@
         "semver": {
           "version": "5.1.0",
           "from": "semver@5.1.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/semver/-/semver-5.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/semver/-/semver-5.1.0.tgz",
           "dev": true
         },
         "subcommand": {
           "version": "2.0.3",
           "from": "subcommand@2.0.3",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/subcommand/-/subcommand-2.0.3.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/subcommand/-/subcommand-2.0.3.tgz",
           "dev": true,
           "dependencies": {
             "cliclopts": {
               "version": "1.1.1",
               "from": "cliclopts@1.1.1",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cliclopts/-/cliclopts-1.1.1.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/cliclopts/-/cliclopts-1.1.1.tgz",
               "dev": true
             },
             "debug": {
@@ -3335,7 +3335,7 @@
             "minimist": {
               "version": "1.2.0",
               "from": "minimist@1.2.0",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-1.2.0.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-1.2.0.tgz",
               "dev": true
             },
             "xtend": {
@@ -3349,19 +3349,19 @@
         "wreck": {
           "version": "6.3.0",
           "from": "wreck@6.3.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wreck/-/wreck-6.3.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/wreck/-/wreck-6.3.0.tgz",
           "dev": true,
           "dependencies": {
             "boom": {
               "version": "2.10.1",
               "from": "boom@2.10.1",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/boom/-/boom-2.10.1.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/boom/-/boom-2.10.1.tgz",
               "dev": true
             },
             "hoek": {
               "version": "2.16.3",
               "from": "hoek@2.16.3",
-              "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/hoek/-/hoek-2.16.3.tgz",
+              "resolved": "https://registry.npmjs.org/npm-proxy/hoek/-/hoek-2.16.3.tgz",
               "dev": true
             }
           }
@@ -3376,12 +3376,12 @@
     "number-is-nan": {
       "version": "1.0.0",
       "from": "number-is-nan@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/number-is-nan/-/number-is-nan-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/number-is-nan/-/number-is-nan-1.0.0.tgz"
     },
     "oauth-sign": {
       "version": "0.8.2",
       "from": "oauth-sign@>=0.8.1 <0.9.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/oauth-sign/-/oauth-sign-0.8.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/oauth-sign/-/oauth-sign-0.8.2.tgz",
       "dev": true
     },
     "object-assign": {
@@ -3398,12 +3398,12 @@
     "object.omit": {
       "version": "2.0.0",
       "from": "object.omit@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object.omit/-/object.omit-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/object.omit/-/object.omit-2.0.0.tgz"
     },
     "once": {
       "version": "1.3.3",
       "from": "once@>=1.3.0 <1.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/once/-/once-1.3.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/once/-/once-1.3.3.tgz"
     },
     "onetime": {
       "version": "1.1.0",
@@ -3427,7 +3427,7 @@
     "optionator": {
       "version": "0.8.1",
       "from": "optionator@>=0.8.1 <0.9.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/optionator/-/optionator-0.8.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/optionator/-/optionator-0.8.1.tgz"
     },
     "ordered-read-streams": {
       "version": "0.3.0",
@@ -3458,7 +3458,7 @@
     "osenv": {
       "version": "0.1.3",
       "from": "osenv@>=0.1.0 <0.2.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/osenv/-/osenv-0.1.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/osenv/-/osenv-0.1.3.tgz",
       "dev": true
     },
     "osx-release": {
@@ -3470,7 +3470,7 @@
         "minimist": {
           "version": "1.2.0",
           "from": "minimist@>=1.1.0 <2.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/minimist/-/minimist-1.2.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/minimist/-/minimist-1.2.0.tgz",
           "dev": true
         }
       }
@@ -3478,7 +3478,7 @@
     "package-json": {
       "version": "2.4.0",
       "from": "package-json@>=2.1.0 <3.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/package-json/-/package-json-2.4.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/package-json/-/package-json-2.4.0.tgz",
       "dev": true
     },
     "pad-component": {
@@ -3489,7 +3489,7 @@
     "parse-glob": {
       "version": "3.0.4",
       "from": "parse-glob@>=3.0.4 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/parse-glob/-/parse-glob-3.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/parse-glob/-/parse-glob-3.0.4.tgz"
     },
     "parse-help": {
       "version": "0.1.1",
@@ -3500,12 +3500,12 @@
     "parse-json": {
       "version": "2.2.0",
       "from": "parse-json@>=2.2.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/parse-json/-/parse-json-2.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/parse-json/-/parse-json-2.2.0.tgz"
     },
     "path-exists": {
       "version": "2.1.0",
       "from": "path-exists@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/path-exists/-/path-exists-2.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/path-exists/-/path-exists-2.1.0.tgz"
     },
     "path-is-absolute": {
       "version": "1.0.0",
@@ -3515,54 +3515,54 @@
     "path-is-inside": {
       "version": "1.0.1",
       "from": "path-is-inside@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/path-is-inside/-/path-is-inside-1.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/path-is-inside/-/path-is-inside-1.0.1.tgz",
       "dev": true
     },
     "path-type": {
       "version": "1.1.0",
       "from": "path-type@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/path-type/-/path-type-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/path-type/-/path-type-1.1.0.tgz"
     },
     "pend": {
       "version": "1.2.0",
       "from": "pend@>=1.2.0 <1.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pend/-/pend-1.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/pend/-/pend-1.2.0.tgz"
     },
     "pify": {
       "version": "2.3.0",
       "from": "pify@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pify/-/pify-2.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/pify/-/pify-2.3.0.tgz"
     },
     "pinkie": {
       "version": "2.0.4",
       "from": "pinkie@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pinkie/-/pinkie-2.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/pinkie/-/pinkie-2.0.4.tgz"
     },
     "pinkie-promise": {
       "version": "2.0.1",
       "from": "pinkie-promise@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pinkie-promise/-/pinkie-promise-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/pinkie-promise/-/pinkie-promise-2.0.1.tgz"
     },
     "pluralize": {
       "version": "1.2.1",
       "from": "pluralize@>=1.2.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pluralize/-/pluralize-1.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/pluralize/-/pluralize-1.2.1.tgz",
       "dev": true
     },
     "prelude-ls": {
       "version": "1.1.2",
       "from": "prelude-ls@>=1.1.2 <1.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/prelude-ls/-/prelude-ls-1.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/prelude-ls/-/prelude-ls-1.1.2.tgz"
     },
     "prepend-http": {
       "version": "1.0.4",
       "from": "prepend-http@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/prepend-http/-/prepend-http-1.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/prepend-http/-/prepend-http-1.0.4.tgz"
     },
     "preserve": {
       "version": "0.2.0",
       "from": "preserve@>=0.2.0 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/preserve/-/preserve-0.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/preserve/-/preserve-0.2.0.tgz"
     },
     "pretty-bytes": {
       "version": "2.0.1",
@@ -3572,45 +3572,45 @@
     "process-nextick-args": {
       "version": "1.0.7",
       "from": "process-nextick-args@>=1.0.6 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.7.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/process-nextick-args/-/process-nextick-args-1.0.7.tgz"
     },
     "progress": {
       "version": "1.1.8",
       "from": "progress@>=1.1.8 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/progress/-/progress-1.1.8.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/progress/-/progress-1.1.8.tgz",
       "dev": true
     },
     "proto-list": {
       "version": "1.2.4",
       "from": "proto-list@>=1.2.1 <1.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/proto-list/-/proto-list-1.2.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm/proto-list/-/proto-list-1.2.4.tgz",
       "dev": true
     },
     "pseudomap": {
       "version": "1.0.2",
       "from": "pseudomap@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/pseudomap/-/pseudomap-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/pseudomap/-/pseudomap-1.0.2.tgz"
     },
     "qs": {
       "version": "6.2.1",
       "from": "qs@>=6.2.0 <6.3.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/qs/-/qs-6.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/qs/-/qs-6.2.1.tgz",
       "dev": true
     },
     "randomatic": {
       "version": "1.1.5",
       "from": "randomatic@>=1.1.3 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/randomatic/-/randomatic-1.1.5.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/randomatic/-/randomatic-1.1.5.tgz"
     },
     "rc": {
       "version": "1.1.6",
       "from": "rc@>=1.1.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/rc/-/rc-1.1.6.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/rc/-/rc-1.1.6.tgz",
       "dependencies": {
         "minimist": {
           "version": "1.2.0",
           "from": "minimist@>=1.2.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-1.2.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-1.2.0.tgz"
         }
       }
     },
@@ -3627,65 +3627,65 @@
     "read-json-sync": {
       "version": "1.1.1",
       "from": "read-json-sync@>=1.1.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/read-json-sync/-/read-json-sync-1.1.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/read-json-sync/-/read-json-sync-1.1.1.tgz",
       "dev": true
     },
     "read-pkg": {
       "version": "1.1.0",
       "from": "read-pkg@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/read-pkg/-/read-pkg-1.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/read-pkg/-/read-pkg-1.1.0.tgz"
     },
     "read-pkg-up": {
       "version": "1.0.1",
       "from": "read-pkg-up@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/read-pkg-up/-/read-pkg-up-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/read-pkg-up/-/read-pkg-up-1.0.1.tgz"
     },
     "readable-stream": {
       "version": "2.0.6",
       "from": "readable-stream@>=2.0.0 <2.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/readable-stream/-/readable-stream-2.0.6.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/readable-stream/-/readable-stream-2.0.6.tgz"
     },
     "readline2": {
       "version": "1.0.1",
       "from": "readline2@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/readline2/-/readline2-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/readline2/-/readline2-1.0.1.tgz"
     },
     "redent": {
       "version": "1.0.0",
       "from": "redent@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/redent/-/redent-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/redent/-/redent-1.0.0.tgz"
     },
     "regex-cache": {
       "version": "0.4.3",
       "from": "regex-cache@>=0.4.2 <0.5.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/regex-cache/-/regex-cache-0.4.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/regex-cache/-/regex-cache-0.4.3.tgz"
     },
     "registry-auth-token": {
       "version": "3.0.1",
       "from": "registry-auth-token@>=3.0.1 <4.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/registry-auth-token/-/registry-auth-token-3.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/registry-auth-token/-/registry-auth-token-3.0.1.tgz",
       "dev": true
     },
     "registry-url": {
       "version": "3.1.0",
       "from": "registry-url@>=3.0.3 <4.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/registry-url/-/registry-url-3.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/registry-url/-/registry-url-3.1.0.tgz",
       "dev": true
     },
     "repeat-element": {
       "version": "1.1.2",
       "from": "repeat-element@>=1.1.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/repeat-element/-/repeat-element-1.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/repeat-element/-/repeat-element-1.1.2.tgz"
     },
     "repeat-string": {
       "version": "1.5.4",
       "from": "repeat-string@>=1.5.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/repeat-string/-/repeat-string-1.5.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/repeat-string/-/repeat-string-1.5.4.tgz"
     },
     "repeating": {
       "version": "2.0.1",
       "from": "repeating@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/repeating/-/repeating-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/repeating/-/repeating-2.0.1.tgz"
     },
     "replace-ext": {
       "version": "0.0.1",
@@ -3701,13 +3701,13 @@
     "require-uncached": {
       "version": "1.0.2",
       "from": "require-uncached@>=1.0.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/require-uncached/-/require-uncached-1.0.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/require-uncached/-/require-uncached-1.0.2.tgz",
       "dev": true
     },
     "resolve-from": {
       "version": "1.0.1",
       "from": "resolve-from@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/resolve-from/-/resolve-from-1.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/resolve-from/-/resolve-from-1.0.1.tgz",
       "dev": true
     },
     "restore-cursor": {
@@ -3723,7 +3723,7 @@
         "glob": {
           "version": "7.0.5",
           "from": "glob@>=7.0.0 <8.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/glob/-/glob-7.0.5.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/glob/-/glob-7.0.5.tgz"
         }
       }
     },
@@ -3736,18 +3736,18 @@
     "run-async": {
       "version": "0.1.0",
       "from": "run-async@>=0.1.0 <0.2.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/run-async/-/run-async-0.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/run-async/-/run-async-0.1.0.tgz"
     },
     "rx": {
       "version": "4.1.0",
       "from": "rx@>=4.1.0 <5.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/rx/-/rx-4.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/rx/-/rx-4.1.0.tgz",
       "dev": true
     },
     "rx-lite": {
       "version": "3.1.2",
       "from": "rx-lite@>=3.1.2 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/rx-lite/-/rx-lite-3.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/rx-lite/-/rx-lite-3.1.2.tgz"
     },
     "samsam": {
       "version": "1.1.2",
@@ -3762,37 +3762,37 @@
         "commander": {
           "version": "2.8.1",
           "from": "commander@>=2.8.1 <2.9.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/commander/-/commander-2.8.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/commander/-/commander-2.8.1.tgz"
         }
       }
     },
     "semver": {
       "version": "5.1.1",
       "from": "semver@>=2.0.0 <3.0.0||>=3.0.0 <4.0.0||>=4.0.0 <5.0.0||>=5.0.0 <6.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/semver/-/semver-5.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/semver/-/semver-5.1.1.tgz"
     },
     "semver-diff": {
       "version": "2.1.0",
       "from": "semver-diff@>=2.0.0 <3.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/semver-diff/-/semver-diff-2.1.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/semver-diff/-/semver-diff-2.1.0.tgz",
       "dev": true
     },
     "semver-regex": {
       "version": "1.0.0",
       "from": "semver-regex@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/semver-regex/-/semver-regex-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/semver-regex/-/semver-regex-1.0.0.tgz",
       "dev": true
     },
     "semver-truncate": {
       "version": "1.1.2",
       "from": "semver-truncate@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/semver-truncate/-/semver-truncate-1.1.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm/semver-truncate/-/semver-truncate-1.1.2.tgz",
       "dev": true,
       "dependencies": {
         "semver": {
           "version": "5.3.0",
           "from": "semver@>=5.3.0 <6.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/semver/-/semver-5.3.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/semver/-/semver-5.3.0.tgz",
           "dev": true
         }
       }
@@ -3810,13 +3810,13 @@
     "sigmund": {
       "version": "1.0.1",
       "from": "sigmund@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/sigmund/-/sigmund-1.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/sigmund/-/sigmund-1.0.1.tgz",
       "dev": true
     },
     "signal-exit": {
       "version": "3.0.0",
       "from": "signal-exit@>=3.0.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/signal-exit/-/signal-exit-3.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/signal-exit/-/signal-exit-3.0.0.tgz"
     },
     "sinon": {
       "version": "1.17.4",
@@ -3826,19 +3826,19 @@
     "slice-ansi": {
       "version": "0.0.4",
       "from": "slice-ansi@0.0.4",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/slice-ansi/-/slice-ansi-0.0.4.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/slice-ansi/-/slice-ansi-0.0.4.tgz",
       "dev": true
     },
     "slide": {
       "version": "1.1.6",
       "from": "slide@>=1.1.5 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/slide/-/slide-1.1.6.tgz",
+      "resolved": "https://registry.npmjs.org/npm/slide/-/slide-1.1.6.tgz",
       "dev": true
     },
     "sntp": {
       "version": "1.0.9",
       "from": "sntp@>=1.0.0 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/sntp/-/sntp-1.0.9.tgz",
+      "resolved": "https://registry.npmjs.org/npm/sntp/-/sntp-1.0.9.tgz",
       "dev": true
     },
     "sort-on": {
@@ -3850,7 +3850,7 @@
     "source-map": {
       "version": "0.2.0",
       "from": "source-map@>=0.2.0 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/source-map/-/source-map-0.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/source-map/-/source-map-0.2.0.tgz",
       "optional": true
     },
     "sparkles": {
@@ -3866,27 +3866,27 @@
     "spdx-correct": {
       "version": "1.0.2",
       "from": "spdx-correct@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-correct/-/spdx-correct-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/spdx-correct/-/spdx-correct-1.0.2.tgz"
     },
     "spdx-exceptions": {
       "version": "1.0.4",
       "from": "spdx-exceptions@>=1.0.4 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-exceptions/-/spdx-exceptions-1.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/spdx-exceptions/-/spdx-exceptions-1.0.4.tgz"
     },
     "spdx-expression-parse": {
       "version": "1.0.2",
       "from": "spdx-expression-parse@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-expression-parse/-/spdx-expression-parse-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/spdx-expression-parse/-/spdx-expression-parse-1.0.2.tgz"
     },
     "spdx-license-ids": {
       "version": "1.2.1",
       "from": "spdx-license-ids@>=1.0.2 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/spdx-license-ids/-/spdx-license-ids-1.2.1.tgz"
     },
     "sprintf-js": {
       "version": "1.0.3",
       "from": "sprintf-js@>=1.0.3 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/sprintf-js/-/sprintf-js-1.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/sprintf-js/-/sprintf-js-1.0.3.tgz"
     },
     "sshpk": {
       "version": "1.10.1",
@@ -3897,7 +3897,7 @@
         "assert-plus": {
           "version": "1.0.0",
           "from": "assert-plus@>=1.0.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/assert-plus/-/assert-plus-1.0.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/assert-plus/-/assert-plus-1.0.0.tgz",
           "dev": true
         }
       }
@@ -3915,7 +3915,7 @@
     "string_decoder": {
       "version": "0.10.31",
       "from": "string_decoder@>=0.10.0 <0.11.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/string_decoder/-/string_decoder-0.10.31.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/string_decoder/-/string_decoder-0.10.31.tgz"
     },
     "string-length": {
       "version": "1.0.1",
@@ -3936,18 +3936,18 @@
     "stringstream": {
       "version": "0.0.5",
       "from": "stringstream@>=0.0.4 <0.1.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/stringstream/-/stringstream-0.0.5.tgz",
+      "resolved": "https://registry.npmjs.org/npm/stringstream/-/stringstream-0.0.5.tgz",
       "dev": true
     },
     "strip-ansi": {
       "version": "3.0.1",
       "from": "strip-ansi@>=3.0.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/strip-ansi/-/strip-ansi-3.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/strip-ansi/-/strip-ansi-3.0.1.tgz"
     },
     "strip-bom": {
       "version": "2.0.0",
       "from": "strip-bom@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/strip-bom/-/strip-bom-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/strip-bom/-/strip-bom-2.0.0.tgz"
     },
     "strip-bom-stream": {
       "version": "2.0.0",
@@ -3969,7 +3969,7 @@
     "strip-indent": {
       "version": "1.0.1",
       "from": "strip-indent@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/strip-indent/-/strip-indent-1.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/strip-indent/-/strip-indent-1.0.1.tgz"
     },
     "strip-json-comments": {
       "version": "1.0.4",
@@ -3995,18 +3995,18 @@
     "supports-color": {
       "version": "2.0.0",
       "from": "supports-color@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/supports-color/-/supports-color-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/supports-color/-/supports-color-2.0.0.tgz"
     },
     "table": {
       "version": "3.7.8",
       "from": "table@>=3.7.8 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/table/-/table-3.7.8.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/table/-/table-3.7.8.tgz",
       "dev": true,
       "dependencies": {
         "lodash": {
           "version": "4.13.1",
           "from": "lodash@>=4.0.0 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-4.13.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-4.13.1.tgz",
           "dev": true
         }
       }
@@ -4032,7 +4032,7 @@
         "lodash": {
           "version": "4.16.2",
           "from": "lodash@>=4.3.0 <5.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/lodash/-/lodash-4.16.2.tgz",
+          "resolved": "https://registry.npmjs.org/npm/lodash/-/lodash-4.16.2.tgz",
           "dev": true
         },
         "minimist": {
@@ -4069,7 +4069,7 @@
         "minimist": {
           "version": "1.2.0",
           "from": "minimist@>=1.1.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/minimist/-/minimist-1.2.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/minimist/-/minimist-1.2.0.tgz"
         }
       }
     },
@@ -4086,7 +4086,7 @@
         "rimraf": {
           "version": "2.2.8",
           "from": "rimraf@>=2.2.6 <2.3.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/rimraf/-/rimraf-2.2.8.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/rimraf/-/rimraf-2.2.8.tgz"
         }
       }
     },
@@ -4145,7 +4145,7 @@
     "tough-cookie": {
       "version": "2.3.1",
       "from": "tough-cookie@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/tough-cookie/-/tough-cookie-2.3.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm/tough-cookie/-/tough-cookie-2.3.1.tgz",
       "dev": true
     },
     "traverse": {
@@ -4156,7 +4156,7 @@
     "trim-newlines": {
       "version": "1.0.0",
       "from": "trim-newlines@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/trim-newlines/-/trim-newlines-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/trim-newlines/-/trim-newlines-1.0.0.tgz"
     },
     "trim-repeated": {
       "version": "1.0.0",
@@ -4166,24 +4166,24 @@
     "tryit": {
       "version": "1.0.2",
       "from": "tryit@>=1.0.1 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tryit/-/tryit-1.0.2.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/tryit/-/tryit-1.0.2.tgz",
       "dev": true
     },
     "tunnel-agent": {
       "version": "0.4.3",
       "from": "tunnel-agent@>=0.4.0 <0.5.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tunnel-agent/-/tunnel-agent-0.4.3.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/tunnel-agent/-/tunnel-agent-0.4.3.tgz"
     },
     "tv4": {
       "version": "1.2.7",
       "from": "tv4@>=1.2.7 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/tv4/-/tv4-1.2.7.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/tv4/-/tv4-1.2.7.tgz",
       "dev": true
     },
     "tweetnacl": {
       "version": "0.14.3",
       "from": "tweetnacl@>=0.14.0 <0.15.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/tweetnacl/-/tweetnacl-0.14.3.tgz",
+      "resolved": "https://registry.npmjs.org/npm/tweetnacl/-/tweetnacl-0.14.3.tgz",
       "dev": true,
       "optional": true
     },
@@ -4196,17 +4196,17 @@
     "type-check": {
       "version": "0.3.2",
       "from": "type-check@>=0.3.2 <0.4.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/type-check/-/type-check-0.3.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/type-check/-/type-check-0.3.2.tgz"
     },
     "typedarray": {
       "version": "0.0.6",
       "from": "typedarray@>=0.0.5 <0.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/typedarray/-/typedarray-0.0.6.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/typedarray/-/typedarray-0.0.6.tgz"
     },
     "uid-number": {
       "version": "0.0.5",
       "from": "uid-number@0.0.5",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/uid-number/-/uid-number-0.0.5.tgz",
+      "resolved": "https://registry.npmjs.org/npm/uid-number/-/uid-number-0.0.5.tgz",
       "dev": true
     },
     "underscore.string": {
@@ -4238,13 +4238,13 @@
         "configstore": {
           "version": "2.1.0",
           "from": "configstore@>=2.0.0 <3.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/configstore/-/configstore-2.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/configstore/-/configstore-2.1.0.tgz",
           "dev": true
         },
         "dot-prop": {
           "version": "3.0.0",
           "from": "dot-prop@>=3.0.0 <4.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/dot-prop/-/dot-prop-3.0.0.tgz",
+          "resolved": "https://registry.npmjs.org/npm/dot-prop/-/dot-prop-3.0.0.tgz",
           "dev": true
         },
         "object-assign": {
@@ -4273,12 +4273,12 @@
     "util-deprecate": {
       "version": "1.0.2",
       "from": "util-deprecate@>=1.0.1 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/util-deprecate/-/util-deprecate-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/util-deprecate/-/util-deprecate-1.0.2.tgz"
     },
     "uuid": {
       "version": "2.0.2",
       "from": "uuid@>=2.0.1 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/uuid/-/uuid-2.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/uuid/-/uuid-2.0.2.tgz"
     },
     "vali-date": {
       "version": "1.0.0",
@@ -4288,12 +4288,12 @@
     "validate-npm-package-license": {
       "version": "3.0.1",
       "from": "validate-npm-package-license@>=3.0.1 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz"
     },
     "verror": {
       "version": "1.3.6",
       "from": "verror@1.3.6",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/verror/-/verror-1.3.6.tgz",
+      "resolved": "https://registry.npmjs.org/npm/verror/-/verror-1.3.6.tgz",
       "dev": true
     },
     "vinyl": {
@@ -4354,12 +4354,12 @@
     "which": {
       "version": "1.2.10",
       "from": "which@>=1.2.8 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/which/-/which-1.2.10.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/which/-/which-1.2.10.tgz"
     },
     "widest-line": {
       "version": "1.0.0",
       "from": "widest-line@>=1.0.0 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/widest-line/-/widest-line-1.0.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/widest-line/-/widest-line-1.0.0.tgz",
       "dev": true
     },
     "win-release": {
@@ -4371,12 +4371,12 @@
     "wordwrap": {
       "version": "1.0.0",
       "from": "wordwrap@>=1.0.0 <1.1.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wordwrap/-/wordwrap-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/wordwrap/-/wordwrap-1.0.0.tgz"
     },
     "wrap-ansi": {
       "version": "2.0.0",
       "from": "wrap-ansi@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wrap-ansi/-/wrap-ansi-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/wrap-ansi/-/wrap-ansi-2.0.0.tgz"
     },
     "wrap-fn": {
       "version": "0.1.5",
@@ -4386,18 +4386,18 @@
     "wrappy": {
       "version": "1.0.2",
       "from": "wrappy@>=1.0.0 <2.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/wrappy/-/wrappy-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/wrappy/-/wrappy-1.0.2.tgz"
     },
     "write": {
       "version": "0.2.1",
       "from": "write@>=0.2.1 <0.3.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/write/-/write-0.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/write/-/write-0.2.1.tgz",
       "dev": true
     },
     "write-file-atomic": {
       "version": "1.2.0",
       "from": "write-file-atomic@>=1.1.2 <2.0.0",
-      "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/write-file-atomic/-/write-file-atomic-1.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/npm/write-file-atomic/-/write-file-atomic-1.2.0.tgz",
       "dev": true
     },
     "xdg-basedir": {
@@ -4408,7 +4408,7 @@
     "xregexp": {
       "version": "3.1.1",
       "from": "xregexp@>=3.0.0 <4.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/xregexp/-/xregexp-3.1.1.tgz",
+      "resolved": "https://registry.npmjs.org/npm-proxy/xregexp/-/xregexp-3.1.1.tgz",
       "dev": true
     },
     "xtend": {
@@ -4419,7 +4419,7 @@
     "yallist": {
       "version": "2.0.0",
       "from": "yallist@>=2.0.0 <3.0.0",
-      "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/yallist/-/yallist-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/npm-proxy/yallist/-/yallist-2.0.0.tgz"
     },
     "yauzl": {
       "version": "2.6.0",
@@ -4434,7 +4434,7 @@
         "path-exists": {
           "version": "1.0.0",
           "from": "path-exists@>=1.0.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/path-exists/-/path-exists-1.0.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/path-exists/-/path-exists-1.0.0.tgz"
         }
       }
     },
@@ -4447,7 +4447,7 @@
         "supports-color": {
           "version": "3.1.2",
           "from": "supports-color@>=3.1.2 <4.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/supports-color/-/supports-color-3.1.2.tgz",
+          "resolved": "https://registry.npmjs.org/npm/supports-color/-/supports-color-3.1.2.tgz",
           "dev": true
         }
       }
@@ -4466,7 +4466,7 @@
         "cli-width": {
           "version": "2.1.0",
           "from": "cli-width@>=2.0.0 <3.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cli-width/-/cli-width-2.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/cli-width/-/cli-width-2.1.0.tgz"
         },
         "diff": {
           "version": "2.2.3",
@@ -4503,7 +4503,7 @@
         "lodash": {
           "version": "4.13.1",
           "from": "lodash@>=4.11.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-4.13.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-4.13.1.tgz"
         },
         "mute-stream": {
           "version": "0.0.6",
@@ -4513,7 +4513,7 @@
         "object-assign": {
           "version": "4.1.0",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/object-assign/-/object-assign-4.1.0.tgz"
         }
       }
     },
@@ -4525,7 +4525,7 @@
         "async": {
           "version": "1.5.2",
           "from": "async@>=1.4.2 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/async/-/async-1.5.2.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/async/-/async-1.5.2.tgz"
         },
         "run-async": {
           "version": "2.2.0",
@@ -4542,17 +4542,17 @@
         "cli-width": {
           "version": "2.1.0",
           "from": "cli-width@>=2.0.0 <3.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/cli-width/-/cli-width-2.1.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/cli-width/-/cli-width-2.1.0.tgz"
         },
         "inquirer": {
           "version": "0.12.0",
           "from": "inquirer@>=0.12.0 <0.13.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/inquirer/-/inquirer-0.12.0.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/inquirer/-/inquirer-0.12.0.tgz"
         },
         "lodash": {
           "version": "4.13.1",
           "from": "lodash@>=4.3.0 <5.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm-proxy/lodash/-/lodash-4.13.1.tgz"
+          "resolved": "https://registry.npmjs.org/npm-proxy/lodash/-/lodash-4.13.1.tgz"
         }
       }
     },
@@ -4570,13 +4570,13 @@
         "async": {
           "version": "1.5.2",
           "from": "async@>=1.0.0 <2.0.0",
-          "resolved": "https://martinreinhardt-online.de/nexus/repository/npm/async/-/async-1.5.2.tgz",
+          "resolved": "https://registry.npmjs.org/npm/async/-/async-1.5.2.tgz",
           "dev": true
         },
         "cross-spawn": {
           "version": "3.0.1",
           "from": "cross-spawn@>=3.0.1 <4.0.0",
-          "resolved": "http://nexus.buildbox.nextrust.fiege.com/repository/npm/cross-spawn/-/cross-spawn-3.0.1.tgz",
+          "resolved": "https://registry.npmjs.org/npm/cross-spawn/-/cross-spawn-3.0.1.tgz",
           "dev": true
         }
       }
