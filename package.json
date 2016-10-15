@@ -1,6 +1,6 @@
 {
   "name": "generator-tvml",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Scaffold TVML Apps which can be developed with ES2015 modules using webpack including livereload",
   "main": "app/index.js",
   "scripts": {
@@ -53,6 +53,6 @@
   "homepage": "https://github.com/hypery2k/generator-tvml#readme",
   "engines": {
     "node": ">=4",
-    "npm": ">=1.3"
+    "npm": ">=3"
   }
 }
