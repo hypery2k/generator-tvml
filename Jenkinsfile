@@ -38,6 +38,7 @@ node {
 
       stage('Integration-Test') {
         sh "npm run e2e"
+        sh "npm run post-e2e"
       }
 
       stage('Publish NPM snapshot') {
