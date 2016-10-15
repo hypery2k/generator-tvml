@@ -21,21 +21,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
     #if (arch(i386) || arch(x86_64)) && os(tvOS)
       appURL = URL(string: "http://localhost:8080/dist/scripts/application.js")!
     #else
-      appURL = NSBundle.mainBundle().URLForResource("application", withExtension: "js",subdirectory: "dist/scripts")!
+      appURL = Bundle.main.url(forResource: "application", withExtension: "js",subdirectory: "dist/scripts")!
     #endif
     return appURL;
-  }
-
-  func registerSettingsBundle(){
-    UserDefaults.standard.register(defaults: [
-      "flynn_couchdb_url" : "http://localhost:6984/"
-      ])
-  }
-
-  func defaultsChanged(){
-    //Get the defaults
-    let defaults = UserDefaults.standard
-    let backendURL: String = defaults.string(forKey: "flynn_couchdb_url")!
   }
 
   // MARK: Javascript Execution Helper
@@ -50,8 +38,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
       }, completion: completion)
   }
 
-  // MARK: UIApplicationDelegate
-  func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+  // MARK: UIApplication Overrides
+  func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject : AnyObject]? = [:]) -> Bool {
     self.window = UIWindow(frame: UIScreen.main.bounds)
 
     let appControllerContext = TVApplicationControllerContext()
@@ -59,11 +47,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
     let javascriptURL = AppDelegate.getAppURL()
 
     appControllerContext.javaScriptApplicationURL = javascriptURL
-    if let options = launchOptions {
-      for (kind, value) in options {
-        if let kindStr = kind as? String {
-          appControllerContext.launchOptions[kindStr] = value
-        }
+    if let launchOptions = launchOptions as? [String: AnyObject] {
+      for (kind, value) in launchOptions {
+        appControllerContext.launchOptions[kind] = value
       }
     }
 
@@ -73,7 +59,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
 
     return true
   }
-
 
   func applicationWillResignActive(_ application: UIApplication) {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
@@ -116,12 +101,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
 
   func appController(_ appController: TVApplicationController, didFinishLaunching options: [String: Any]?) {
     print("\(#function) invoked with options: \(options)")
-    self.registerSettingsBundle()
-    self.defaultsChanged()
-    NotificationCenter.default.addObserver(self,
-                                                     selector: #selector(AppDelegate.defaultsChanged),
-                                                     name: UserDefaults.didChangeNotification,
-                                                     object: nil)
 
   }
 
