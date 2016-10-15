@@ -33,7 +33,7 @@ node {
 
       stage('Test') {
         sh "npm run test"
-        junit 'reports/TEST-*.xml'
+        //junit 'reports/TEST-*.xml'
       }
 
       stage('Integration-Test') {
