@@ -83,7 +83,7 @@ module.exports = generators.Base.extend({
     var done = this.async();
 
     if (!this.options['skip-welcome-message']) {
-      this.log(yosay('I create a scaffold for creating JavasScript-based TVML tvOS Apps.  '));
+      this.log(yosay('I create a scaffold for JavasScript-based TVML tvOS Apps.'));
     }
 
     if (this.options.appname && this.options.appid) {
