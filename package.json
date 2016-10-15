@@ -1,6 +1,6 @@
 {
   "name": "generator-tvml",
-  "version": "0.3.0-dev",
+  "version": "0.3.0",
   "description": "Scaffold TVML Apps which can be developed with ES2015 modules using webpack including livereload",
   "main": "app/index.js",
   "scripts": {
