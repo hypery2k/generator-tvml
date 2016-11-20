@@ -35,7 +35,7 @@
     "async": "2.1.2",
     "core-util-is": "1.0.2",
     "eslint": "3.10.0",
-    "gruntfile-editor": "1.2.0",
+    "gruntfile-editor": "1.2.1",
     "is-promise": "2.1.0",
     "mocha": "3.1.2",
     "nopt": "3.0.6",
