@@ -37,7 +37,7 @@
     "eslint": "3.10.0",
     "gruntfile-editor": "1.2.0",
     "is-promise": "2.1.0",
-    "mocha": "3.1.2",
+    "mocha": "3.2.0",
     "nopt": "3.0.6",
     "nsp": "2.6.2",
     "underscore.string": "3.3.4",
