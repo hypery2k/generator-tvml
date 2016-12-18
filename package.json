@@ -42,7 +42,7 @@
     "nsp": "2.6.2",
     "underscore.string": "3.3.4",
     "yeoman-assert": "2.2.1",
-    "yeoman-test": "1.5.1",
+    "yeoman-test": "1.6.0",
     "yo": "1.8.5"
   },
   "author": "Martin Reinhardt",
