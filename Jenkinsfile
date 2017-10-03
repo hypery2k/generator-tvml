@@ -1,7 +1,10 @@
 properties properties: [
   [$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '30', numToKeepStr: '10']],
-  [$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/hypery2k/generator-tvml/'],
+  disableConcurrentBuilds()
 ]
+
+@Library('mare-build-library')
+def nodeJS = new de.mare.ci.jenkins.NodeJS()
 
 node {
   node('xcode') {
@@ -9,7 +12,7 @@ node {
     def buildNumber = env.BUILD_NUMBER
     def workspace = env.WORKSPACE
     def buildUrl = env.BUILD_URL
-
+    def branchName = env.BRANCH_NAME
 
     // PRINT ENVIRONMENT TO JOB
     echo "workspace directory is $workspace"
@@ -39,12 +42,10 @@ node {
       }
 
       stage('Publish NPM snapshot') {
-        def currentVersion = sh(returnStdout: true, script: "npm version | grep \"{\" | tr -s ':'  | cut -d \"'\" -f 4").trim()
-        def newVersion = "${currentVersion}-${buildNumber}"
-        sh "npm version ${newVersion} --no-git-tag-version && npm publish --tag next"
+        nodeJS.publishSnapshot('src', buildNumber, branchName)
       }
 
-    } catch (e){
+    } catch (e) {
       mail subject: "${env.JOB_NAME} (${env.BUILD_NUMBER}): Error on build", to: 'github@martinreinhardt-online.de', body: "Please go to ${env.BUILD_URL}."
       throw e
     }
