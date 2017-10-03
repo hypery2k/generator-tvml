@@ -1,5 +1,5 @@
 'use strict';
-var generators = require('yeoman-generator');
+var yeoman = require('yeoman-generator');
 var yosay = require('yosay');
 var chalk = require('chalk');
 var mkdirp = require('mkdirp');
@@ -52,10 +52,10 @@ function createAssets(self) {
   );
 }
 
-module.exports = generators.Base.extend({
+module.exports = yeoman.extend({
   constructor: function () {
 
-    generators.Base.apply(this, arguments);
+    yeoman.apply(this, arguments);
 
     this.option('skip-welcome-message', {
       desc: 'Skips the welcome message',
