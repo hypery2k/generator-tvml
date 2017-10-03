@@ -4,12 +4,11 @@
   "description": "Scaffold TVML Apps which can be developed with ES2015 modules using webpack including livereload",
   "main": "app/index.js",
   "scripts": {
-    "clean":"npm link && rm -rf tmp && mkdir -p tmp",
+    "clean": "npm link && rm -rf tmp && mkdir -p tmp",
     "test": "mocha --reporter spec --timeout 3000",
     "pretest": "eslint app/*.js && nsp check",
     "e2e": "cd tmp && yo .. --appname='test' ---appid='com.test'",
-    "post-e2e":"cd tmp && xcodebuild clean build -sdk appletvos10.0 -configuration Debug CODE_SIGN_IDENTITY=\"\" CODE_SIGNING_REQUIRED=NO"
-
+    "post-e2e": "cd tmp && xcodebuild clean build -sdk appletvos10.0 -configuration Debug CODE_SIGN_IDENTITY=\"\" CODE_SIGNING_REQUIRED=NO"
   },
   "preferGlobal": "true",
   "files": [
@@ -39,7 +38,7 @@
     "is-promise": "2.1.0",
     "mocha": "3.2.0",
     "nopt": "4.0.0",
-    "nsp": "2.6.2",
+    "nsp": "2.8.1",
     "underscore.string": "3.3.4",
     "yeoman-assert": "2.2.2",
     "yeoman-test": "1.5.1",
