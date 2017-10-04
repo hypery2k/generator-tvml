@@ -42,7 +42,7 @@ node {
       }
 
       stage('Publish NPM snapshot') {
-        nodeJS.publishSnapshot('src', buildNumber, branchName)
+        nodeJS.publishSnapshot('.', buildNumber, branchName)
       }
 
     } catch (e) {
