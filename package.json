@@ -52,7 +52,7 @@
     "is-promise": "2.1.0",
     "mocha": "3.2.0",
     "nopt": "4.0.0",
-    "nsp": "2.8.1",
+    "nsp": "3.0.0",
     "underscore.string": "3.3.4",
     "yeoman-assert": "2.2.2",
     "yeoman-test": "1.5.1",
