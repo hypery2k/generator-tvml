@@ -47,7 +47,7 @@
     "async": "2.1.4",
     "conventional-changelog-cli": "^1.3.4",
     "core-util-is": "1.0.2",
-    "eslint": "4.8.0",
+    "eslint": "4.12.0",
     "gruntfile-editor": "1.2.0",
     "is-promise": "2.1.0",
     "mocha": "3.2.0",
