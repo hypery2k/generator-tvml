@@ -21,7 +21,9 @@
     "version-and-push": "git push origin && git push origin --tags && npm run merge-and-publish",
     "merge-and-publish:pre": "git checkout master && git merge develop && git push",
     "merge-and-publish": "npm publish",
-    "merge-and-publish:post": "git checkout develop"
+    "merge-and-publish:post": "git checkout develop",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "preferGlobal": "true",
   "files": [
@@ -41,7 +43,8 @@
     "chalk": "2.3.0",
     "mkdirp": "0.5.1",
     "yeoman-generator": "2.0.2",
-    "yosay": "2.0.1"
+    "yosay": "2.0.1",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "async": "2.6.0",
@@ -67,5 +70,6 @@
   "engines": {
     "node": ">=4",
     "npm": ">=3"
-  }
+  },
+  "snyk": true
 }
