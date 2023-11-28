@@ -40,8 +40,8 @@
   "dependencies": {
     "chalk": "2.3.0",
     "mkdirp": "0.5.1",
-    "yeoman-generator": "2.0.2",
-    "yosay": "2.0.1"
+    "yeoman-generator": "5.0.0",
+    "yosay": "3.0.0"
   },
   "devDependencies": {
     "async": "2.6.0",
